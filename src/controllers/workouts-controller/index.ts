@@ -1,7 +1,8 @@
-import { InternalServerErrorException } from '@/utils/errors';
+import { InternalServerErrorException, NotFoundException } from '@/utils/errors';
 import { z } from 'zod';
 import OpenAI from 'openai';
 import appConfig from '@/config/app-config';
+import { Request, Response } from 'express';
 
 const createWorkoutSchema = z.object({
     name: z.string().min(1),
@@ -12,7 +13,7 @@ const openAi = new OpenAI({
 });
 
 const workoutsController = {
-    async create(req, res) {
+    async create(req: Request, res: Response) {
         const parsedData = createWorkoutSchema.safeParse({
             name: req.body.name,
         })
@@ -53,32 +54,33 @@ const workoutsController = {
 
     },
 
-    async getAll(req, res) {
+    async getAll(req: Request, res: Response) {
         const { data, error } = await req.supabase
             .from('workouts')
             .select('*')
             .eq('user_id', req.user.id)
             .order('created_at', { ascending: false });
 
-
         if (error) throw new InternalServerErrorException(error.message);
 
         res.json({ message: '', error: '', data: data });
     },
 
-    async getById(req, res) {
+    async getById(req: Request, res: Response) {
         const { data, error } = await req.supabase
             .from('workouts')
             .select('*')
             .eq('user_id', req.user.id)
             .eq('id', req.params.id)
+            .maybeSingle()
 
+        if (!data) throw new NotFoundException();
         if (error) throw new InternalServerErrorException(error.message);
 
-        res.json({ message: '', error: '', data: data[0] });
+        res.json({ message: '', error: '', data: data });
     },
 
-    async delete(req, res) {
+    async delete(req: Request, res: Response) {
         const { error } = await req.supabase
             .from('workouts')
             .delete()
