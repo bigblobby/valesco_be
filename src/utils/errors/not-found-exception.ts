@@ -3,7 +3,7 @@ export default class NotFoundException extends Error {
 
     constructor(message = 'Not found') {
         super(message);
-        this.name = "NotFoundException";
+        this.name = 'NotFoundException';
         this.statusCode = 404;
     }
 }

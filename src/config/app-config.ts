@@ -1,5 +1,6 @@
 import dotenv from 'dotenv';
 import * as process from 'process';
+
 dotenv.config();
 dotenv.config({ path: `.env.local`, override: true });
 

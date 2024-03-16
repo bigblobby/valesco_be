@@ -10,7 +10,7 @@ function startServer() {
         http.createServer(app).listen(config.app.port);
         https.createServer({}, app).listen(443);
         logger.info(`Server started on port ${config.app.port}`);
-    } catch(e) {
+    } catch (e) {
         console.error(e);
     }
 }

@@ -1,44 +1,24 @@
 import { InternalServerErrorException, NotFoundException } from '@/utils/errors';
-import appConfig from '@/config/app-config';
-import OpenAI from 'openai';
 import { Request, Response } from 'express';
-
-const openAi = new OpenAI({
-    apiKey: appConfig.app.openai_key
-});
+import openaiService from '@/services/openai.service';
 
 const workoutsController = {
     async create(req: Request, res: Response) {
-        // const completion = await openAi.chat.completions.create({
-        //     messages: [
-        //         {
-        //             role: 'system',
-        //             content: `You are a helpful personal trainer that specialises in crossfit and will suggest a wide variety of exercises.`
-        //         },
-        //         {
-        //             role: "user",
-        //             content: `Create a crossfit workout. First a warm up (never running or jogging), then a skill/strength section, then a WOD, nothing else. Include scaled movements. Respond in markdown.`
-        //         }
-        //     ],
-        //     model: "gpt-3.5-turbo-0125",
-        // });
-        //
-        // const content = completion.choices[0].message.content;
+        const content = await openaiService.generateWorkout();
 
-        if (true) {
-            const {data, error} = await req.supabase.from('workouts').insert({
+        if (content) {
+            const { data, error } = await req.supabase.from('workouts').insert({
                 user_id: req.user.id,
                 name: req.body.name,
-                content: 'test',
-            }).select();
+                content: content,
+            }).select().single();
 
             if (error) throw new InternalServerErrorException(error.message);
 
-            res.json({ message: 'Workout created', error: '', data: data?.[0] });
+            res.json({ message: 'Workout created', error: '', data: data });
         } else {
             throw new InternalServerErrorException('Something went wrong');
         }
-
     },
 
     async getAll(req: Request, res: Response) {
@@ -59,7 +39,7 @@ const workoutsController = {
             .select('*')
             .eq('user_id', req.user.id)
             .eq('id', req.params.id)
-            .maybeSingle()
+            .maybeSingle();
 
         if (!data) throw new NotFoundException();
         if (error) throw new InternalServerErrorException(error.message);
