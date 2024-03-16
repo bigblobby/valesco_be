@@ -1,12 +1,7 @@
 import { InternalServerErrorException, NotFoundException } from '@/utils/errors';
-import { z } from 'zod';
-import OpenAI from 'openai';
 import appConfig from '@/config/app-config';
+import OpenAI from 'openai';
 import { Request, Response } from 'express';
-
-const createWorkoutSchema = z.object({
-    name: z.string().min(1),
-});
 
 const openAi = new OpenAI({
     apiKey: appConfig.app.openai_key
@@ -14,14 +9,6 @@ const openAi = new OpenAI({
 
 const workoutsController = {
     async create(req: Request, res: Response) {
-        const parsedData = createWorkoutSchema.safeParse({
-            name: req.body.name,
-        })
-
-        if (!parsedData.success) {
-            return res.status(400).json({ error: parsedData.error.message, message: '', data: null });
-        }
-
         // const completion = await openAi.chat.completions.create({
         //     messages: [
         //         {

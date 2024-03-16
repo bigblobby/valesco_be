@@ -1,5 +1,5 @@
 import userGuard from '@/guards/user.guard';
 
-export default {
+export {
     userGuard,
 }
