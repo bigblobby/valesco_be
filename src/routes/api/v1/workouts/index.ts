@@ -8,6 +8,7 @@ const router = express.Router();
 
 router.post('/', userGuard, validate(createWorkoutSchema), workoutsController.create);
 router.get('/', userGuard, workoutsController.getAll);
+router.get('/count', userGuard, workoutsController.getCount);
 router.get('/:id', userGuard, workoutsController.getById);
 router.delete('/:id', userGuard, workoutsController.delete);
 

@@ -22,15 +22,26 @@ const workoutsController = {
     },
 
     async getAll(req: Request, res: Response) {
+        const page = Number(req.query.page || 1);
+        const limit = 12;
+
         const { data, error } = await req.supabase
             .from('workouts')
             .select('*')
             .eq('user_id', req.user.id)
-            .order('created_at', { ascending: false });
+            .order('created_at', { ascending: false })
+            .range((page - 1) * limit, (limit * page) - 1)
 
         if (error) throw new InternalServerErrorException(error.message);
 
-        res.json({ message: '', error: '', data: data });
+        const { count, error: countError } = await req.supabase
+            .from('workouts')
+            .select('*', { count: 'exact', head: true })
+
+        if (!count) throw new NotFoundException();
+        if (countError) throw new InternalServerErrorException(countError);
+
+        res.json({ message: '', error: '', data: { workouts: data, count: count } });
     },
 
     async getById(req: Request, res: Response) {
@@ -45,6 +56,17 @@ const workoutsController = {
         if (error) throw new InternalServerErrorException(error.message);
 
         res.json({ message: '', error: '', data: data });
+    },
+
+    async getCount(req: Request, res: Response) {
+        const { count, error } = await req.supabase
+            .from('workouts')
+            .select('*', { count: 'exact', head: true })
+
+        if (!count) throw new NotFoundException();
+        if (error) throw new InternalServerErrorException(error);
+
+        res.json({ message: '', error: '', data: count });
     },
 
     async delete(req: Request, res: Response) {
