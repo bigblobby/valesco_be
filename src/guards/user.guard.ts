@@ -5,9 +5,17 @@ import { NextFunction, Request, Response } from 'express';
 
 const userGuard = async (req: Request, res: Response, next: NextFunction) => {
     try {
-        const supabase = createClient(appConfig.app.supabase_url!, appConfig.app.supabase_anon_key!);
+        const supabase = createClient(
+            appConfig.app.supabase_url!,
+            appConfig.app.supabase_anon_key!,
+            {
+                global: {
+                    headers: { Authorization: req.headers.authorization! },
+                }
+            }
+        );
+
         let access_token;
-        let refresh_token;
 
         if (req.headers.authorization && req.headers.authorization.startsWith('Bearer')) {
             access_token = req.headers.authorization.split(' ')[1];
@@ -15,22 +23,18 @@ const userGuard = async (req: Request, res: Response, next: NextFunction) => {
             access_token = req.cookies.access_token;
         }
 
-        if (req.headers.refreshtoken) {
-            refresh_token = req.headers.refreshtoken;
-        }
 
         if (!access_token) return next(new UnauthorizedException('You must be logged in.'));
-        if (!refresh_token) return next(new UnauthorizedException('You must have a valid refresh token'));
 
-        const { data, error } = await supabase.auth.setSession({
-            access_token: access_token,
-            refresh_token: refresh_token,
-        });
+        const {
+            data: { user },
+            error
+        } = await supabase.auth.getUser();
 
-        if (!data.user) return next(new BadRequestException('User does not exist.'));
+        if (!user) return next(new BadRequestException('User does not exist.'));
         if (error) return next(new BadRequestException(error.message));
 
-        req.user = data.user;
+        req.user = user;
         req.supabase = supabase;
         next();
     } catch (err) {
