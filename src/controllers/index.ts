@@ -1,7 +1,9 @@
 import workoutsController from '@/controllers/workouts';
-import profileController from '@/controllers/settings';
+import settingsController from '@/controllers/settings';
+import profilesController from '@/controllers/profiles';
 
 export {
     workoutsController,
-    profileController,
+    settingsController,
+    profilesController,
 };
