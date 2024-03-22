@@ -33,6 +33,9 @@ const workoutsController = {
             .range((page - 1) * limit, (limit * page) - 1)
 
         if (error) throw new InternalServerErrorException(error.message);
+        if (data.length === 0) {
+            res.json({ message: '', error: '', data: { workouts: data, count: 0 } });
+        }
 
         const { count, error: countError } = await req.supabase
             .from('workouts')
@@ -62,6 +65,10 @@ const workoutsController = {
         const { count, error } = await req.supabase
             .from('workouts')
             .select('*', { count: 'exact', head: true })
+
+        if (count === 0) {
+            res.json({ message: '', error: '', data: 0 });
+        }
 
         if (!count) throw new NotFoundException();
         if (error) throw new InternalServerErrorException(error);
