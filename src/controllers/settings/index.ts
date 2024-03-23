@@ -18,7 +18,7 @@ const settingsController = {
         const { data, error } = await req.supabase.from('settings').upsert({
             id: req.user?.id,
             theme: req.body.theme,
-        });
+        }).select().single();
 
         if (error) throw new InternalServerErrorException(error.message);
 

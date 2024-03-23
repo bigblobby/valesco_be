@@ -24,7 +24,7 @@ const profileController = {
             height_inches: req.body?.height_inches,
             weight: req.body?.weight,
             activity_level: req.body?.activity_level,
-        });
+        }).select().single();
 
         if (error) throw new InternalServerErrorException(error.message);
 
