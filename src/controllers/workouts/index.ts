@@ -13,6 +13,8 @@ const workoutsController = {
             const { data, error } = await req.supabase.from('workouts').insert({
                 user_id: req.user.id,
                 name: req.body.name,
+                type: req.body.type,
+                length: req.body.length,
                 content: content,
             }).select().single();
 
