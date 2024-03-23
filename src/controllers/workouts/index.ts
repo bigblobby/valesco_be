@@ -4,7 +4,10 @@ import openaiService from '@/services/openai.service';
 
 const workoutsController = {
     async create(req: Request, res: Response) {
-        const content = await openaiService.generateWorkout();
+        const content = await openaiService.generateWorkout({
+            length: req.body.length,
+            type: req.body.type,
+        });
 
         if (content) {
             const { data, error } = await req.supabase.from('workouts').insert({

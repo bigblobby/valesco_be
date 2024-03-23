@@ -6,7 +6,19 @@ const openaiService = {
         apiKey: appConfig.app.openai_key
     }),
 
-    async generateWorkout() {
+    async generateWorkout(options: any) {
+        let content = '';
+
+        switch (options.type) {
+            case 'gym_class':
+                content = `Create a crossfit workout that is ${options.length} mins long. First a warm up (never running or jogging), then a skill/strength section, then a WOD, nothing else. Include scaled movements. Respond in markdown.`;
+                break;
+            case 'wod':
+                content = `Create a crossfit wod workout that is ${options.length} mins long.`;
+                break;
+        }
+
+
         try {
             const completion = await this.openAI.chat.completions.create({
                 messages: [
@@ -16,7 +28,7 @@ const openaiService = {
                     },
                     {
                         role: 'user',
-                        content: `Create a crossfit workout. First a warm up (never running or jogging), then a skill/strength section, then a WOD, nothing else. Include scaled movements. Respond in markdown.`
+                        content: content,
                     }
                 ],
                 model: 'gpt-3.5-turbo-0125',
