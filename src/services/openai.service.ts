@@ -11,10 +11,13 @@ const openaiService = {
 
         switch (options.type) {
             case 'gym_class':
-                content = `Create a crossfit workout that is ${options.length} mins long. First a warm up (never running or jogging), then a skill/strength section, then a WOD, nothing else. Include scaled movements. Respond in markdown.`;
+                content = `Create a crossfit workout that is ${options.length} mins long. First a warm up (never running or jogging), then a skill/strength section, then a WOD, nothing else. Include scaled movements. Text should show the workout only, respond in markdown.`;
                 break;
             case 'wod':
-                content = `Create a crossfit wod workout that is ${options.length} mins long.`;
+                content = `Create a crossfit wod workout that is ${options.length} mins long. Text should show the workout only, respond in markdown.`;
+                break;
+            case 'hero':
+                content = `Create a crossfit hero workout. Text should show the workout only. Text should show the workout only, respond in markdown.`;
                 break;
         }
 
