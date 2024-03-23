@@ -34,7 +34,7 @@ const workoutsController = {
 
         if (error) throw new InternalServerErrorException(error.message);
         if (data.length === 0) {
-            res.json({ message: '', error: '', data: { workouts: data, count: 0 } });
+            return res.json({ message: '', error: '', data: { workouts: data, count: 0 } });
         }
 
         const { count, error: countError } = await req.supabase
@@ -67,7 +67,7 @@ const workoutsController = {
             .select('*', { count: 'exact', head: true })
 
         if (count === 0) {
-            res.json({ message: '', error: '', data: 0 });
+            return res.json({ message: '', error: '', data: 0 });
         }
 
         if (!count) throw new NotFoundException();

@@ -6,6 +6,7 @@ import { updateSettingsSchema } from '@/validators/zod/schemas/settings.schema';
 
 const router = express.Router();
 
+router.get('/', userGuard, settingsController.getSettings);
 router.put('/', userGuard, validate(updateSettingsSchema), settingsController.updateSettings);
 
 export default router;
