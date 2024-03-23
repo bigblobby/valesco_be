@@ -20,6 +20,10 @@ const profileController = {
             username: req.body?.username,
             first_name: req.body?.first_name,
             last_name: req.body?.last_name,
+            height_feet: req.body?.height_feet,
+            height_inches: req.body?.height_inches,
+            weight: req.body?.weight,
+            activity_level: req.body?.activity_level,
         });
 
         if (error) throw new InternalServerErrorException(error.message);
