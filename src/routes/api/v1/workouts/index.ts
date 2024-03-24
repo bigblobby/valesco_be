@@ -6,10 +6,10 @@ import { createWorkoutSchema } from '@/validators/zod/schemas/workouts.schema';
 
 const router = express.Router();
 
-router.post('/', userGuard, validate(createWorkoutSchema), workoutsController.create);
-router.get('/', userGuard, workoutsController.getAll);
-router.get('/count', userGuard, workoutsController.getCount);
-router.get('/:id', userGuard, workoutsController.getById);
-router.delete('/:id', userGuard, workoutsController.delete);
+router.post('/', userGuard, validate(createWorkoutSchema), workoutsController.createWorkout);
+router.get('/', userGuard, workoutsController.getAllWorkouts);
+router.get('/count', userGuard, workoutsController.getWorkoutsCount);
+router.get('/:id', userGuard, workoutsController.getWorkoutById);
+router.delete('/:id', userGuard, workoutsController.deleteWorkout);
 
 export default router;

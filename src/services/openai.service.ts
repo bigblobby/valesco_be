@@ -16,11 +16,7 @@ const openaiService = {
             case 'wod':
                 content = `Create a crossfit wod workout that is ${options.length} mins long. Text should show the workout only, respond in markdown.`;
                 break;
-            case 'hero':
-                content = `Create a crossfit hero workout. Text should show the workout only. Text should show the workout only, respond in markdown.`;
-                break;
         }
-
 
         try {
             const completion = await this.openAI.chat.completions.create({
