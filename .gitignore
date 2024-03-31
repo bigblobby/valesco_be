@@ -3,3 +3,4 @@ node_modules
 .env.local
 .idea
 logs
+__pycache__/

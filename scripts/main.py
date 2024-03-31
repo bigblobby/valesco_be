@@ -1,3 +1,3 @@
-import push_jerk_initial
+import crossfit_daily_wods_archive_initial
 
-push_jerk_initial.main()
+crossfit_daily_wods_archive_initial.main()
