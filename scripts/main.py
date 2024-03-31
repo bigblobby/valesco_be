@@ -1,3 +1,3 @@
-import crossfit_daily_wods_archive_initial
+import crossfit_mayhem_initial
 
-crossfit_daily_wods_archive_initial.main()
+crossfit_mayhem_initial.main()
