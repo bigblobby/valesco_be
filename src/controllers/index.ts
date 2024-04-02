@@ -1,7 +1,7 @@
-import workoutsController from '@/controllers/workouts';
-import workoutsPreMadeController from '@/controllers/workouts-pre-made';
-import settingsController from '@/controllers/settings';
-import profilesController from '@/controllers/profiles';
+import workoutsController from '@/controllers/workouts.controller';
+import workoutsPreMadeController from '@/controllers/workouts-pre-made.controller';
+import settingsController from '@/controllers/settings.controller';
+import profilesController from '@/controllers/profiles.controller';
 
 export {
     workoutsController,

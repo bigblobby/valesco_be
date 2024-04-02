@@ -1,8 +1,8 @@
 import express from 'express';
-import workoutsRouter from '@/routes/api/v1/workouts';
-import workoutsPreMadeRouter from '@/routes/api/v1/workouts-pre-made';
-import settingsRouter from '@/routes/api/v1/settings';
-import profilesRouter from '@/routes/api/v1/profiles';
+import workoutsRouter from '@/routes/api/v1/workouts.routes';
+import workoutsPreMadeRouter from '@/routes/api/v1/workouts-pre-made.routes';
+import settingsRouter from '@/routes/api/v1/settings.routes';
+import profilesRouter from '@/routes/api/v1/profiles.routes';
 
 const router = express.Router();
 

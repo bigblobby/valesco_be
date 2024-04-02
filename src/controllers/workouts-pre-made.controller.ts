@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import workoutsPreMadeService from '@/services/workouts-pre-made.service';
+import { workoutsPreMadeService } from '@/services';
 
 const workoutsPreMadeController = {
     async getAllWorkouts(req: Request, res: Response) {
