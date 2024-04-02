@@ -19,14 +19,14 @@ def main():
             try:
                 obj = {}
                 d = datetime.today() - timedelta(days=days)
-                path = f"{d:%m}" + "-" + f"{d:%d}" + "-" + f"{d:%Y}" + "-workout-of-the-day"
-                driver.get("https://crossfitlinchpin.com/blogs/wod/" + str(path))
+                path = f"{d:%m}" + "-" + f"{d:%d}" + "-" + f"{d:%Y}" + "-monster-mash"
+                driver.get("https://crossfitlinchpin.com/blogs/monster-mash/" + str(path))
 
-                WebDriverWait(driver, 5).until(
+                WebDriverWait(driver, 2).until(
                     EC.presence_of_element_located((By.TAG_NAME, "h1"))
                 )
 
-                WebDriverWait(driver, 5).until(
+                WebDriverWait(driver, 2).until(
                     EC.presence_of_element_located((By.CLASS_NAME, "rte--indented-images"))
                 )
 
@@ -42,13 +42,13 @@ def main():
             except:
                 return
 
-        for i in range(0, 4000):
+        for i in range(700, 4000):
             get_workout(i)
             print(i + 1)
 
     start()
 
-    with open("crossfit-linchpin-daily-wods.json", "w") as outfile:
+    with open("crossfit-linchpin-monster-mash-wods-2.json", "w") as outfile:
         json.dump(arr, outfile)
 
     driver.quit()
