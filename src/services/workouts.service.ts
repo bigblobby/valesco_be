@@ -1,5 +1,5 @@
 import { getRandomNumberBetween } from '@/utils/number.utils';
-import heroWods from '../../json/hero_wods.json';
+import heroWods from '../../json/crossfit-main-hero-wods.json';
 import { NodeHtmlMarkdown } from 'node-html-markdown';
 import openaiService from '@/services/openai.service';
 import { InternalServerErrorException, NotFoundException } from '@/utils/errors';
