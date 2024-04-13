@@ -1,1256 +1,838 @@
 [
   {
     "title": "JT",
-    "line_one": "21-15-9 reps for time of:\nHandstand push-ups\nRing dips\nPush-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>21-15-9 reps for time of:<br/>\nHandstand push-ups<br/>\nRing dips<br/>\nPush-ups</p>"
   },
   {
     "title": "Michael",
-    "line_one": "3 rounds for time of:\nRun 800 m\n50 back extensions\n50 sit-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>3 rounds for time of:<br/>\nRun 800 m<br/>\n50 back extensions<br/>\n50 sit-ups</p>"
   },
   {
     "title": "Murph",
-    "line_one": "For time:\n1 mile Run\n100 Pull-ups\n200 Push-ups\n300 Squats\n1 mile Run",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n1 mile Run<br/>\n100 Pull-ups<br/>\n200 Push-ups<br/>\n300 Squats<br/>\n1 mile Run</p>"
   },
   {
     "title": "Daniel",
-    "line_one": "For time:\n50 Pull-ups\n400 meter run\n95 pound Thruster, 21 reps\n800 meter run\n95 pound Thruster, 21 reps\n400 meter run\n50 Pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n50 Pull-ups<br/>\n400 meter run<br/>\n95 pound Thruster, 21 reps<br/>\n800 meter run<br/>\n95 pound Thruster, 21 reps<br/>\n400 meter run<br/>\n50 Pull-ups</p>"
   },
   {
     "title": "Josh",
-    "line_one": "For time:\n95 pound Overhead squat, 21 reps\n42 Pull-ups\n95 pound Overhead squat, 15 reps\n30 Pull-ups\n95 pound Overhead squat, 9 reps\n18 Pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n95 pound Overhead squat, 21 reps<br/>\n42 Pull-ups<br/>\n95 pound Overhead squat, 15 reps<br/>\n30 Pull-ups<br/>\n95 pound Overhead squat, 9 reps<br/>\n18 Pull-ups</p>"
   },
   {
     "title": "Jason",
-    "line_one": "For time:\n100 Squats\n5 Muscle-ups\n75 Squats\n10 Muscle-ups\n50 Squats\n15 Muscle-ups\n25 Squats\n20 Muscle-ups\n",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n100 Squats<br/>\n5 Muscle-ups<br/>\n75 Squats<br/>\n10 Muscle-ups<br/>\n50 Squats<br/>\n15 Muscle-ups<br/>\n25 Squats<br/>\n20 Muscle-ups<br/>\n</p>"
   },
   {
     "title": "Badger",
-    "line_one": "Complete three rounds for time of:\n95 pound Squat clean, 30 reps\n30 Pull-ups\nRun 800 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete three rounds for time of:<br/>\n95 pound Squat clean, 30 reps<br/>\n30 Pull-ups<br/>\nRun 800 meters</p>"
   },
   {
     "title": "Joshie",
-    "line_one": "Complete three rounds for time of:\n40 pound Dumbbell snatch, 21 reps, right arm\n21 L Pull-ups\n40 pound Dumbbell snatch, 21 reps, left arm\n21 L Pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete three rounds for time of:<br/>\n40 pound Dumbbell snatch, 21 reps, right arm<br/>\n21 L Pull-ups<br/>\n40 pound Dumbbell snatch, 21 reps, left arm<br/>\n21 L Pull-ups</p>"
   },
   {
     "title": "Nate",
-    "line_one": "Complete as many rounds in twenty minutes as you can of:\n2 Muscle-ups\n4 Handstand Push-ups\n8 2-Pood Kettlebell swings",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds in twenty minutes as you can of:<br/>\n2 Muscle-ups<br/>\n4 Handstand Push-ups<br/>\n8 2-Pood Kettlebell swings</p>"
   },
   {
     "title": "Randy",
-    "line_one": "75 pound\u00a0Power snatch, 75 reps for time.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>75 pound Power snatch, 75 reps for time.</p>"
   },
   {
     "title": "Tommy V",
-    "line_one": "For time:\n115 pound Thruster, 21 reps\n15 ft Rope Climb, 12 ascents\n115 pound Thruster, 15 reps\n15 ft Rope Climb, 9 ascents\n115 pound Thruster, 9 reps\n15 ft Rope Climb, 6 ascents",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n115 pound Thruster, 21 reps<br/>\n15 ft Rope Climb, 12 ascents<br/>\n115 pound Thruster, 15 reps<br/>\n15 ft Rope Climb, 9 ascents<br/>\n115 pound Thruster, 9 reps<br/>\n15 ft Rope Climb, 6 ascents</p>"
   },
   {
     "title": "Griff",
-    "line_one": "For time:\nRun 800 meters\nRun 400 meters backwards\nRun 800 meters\nRun 400 meters backwards",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 800 meters<br/>\nRun 400 meters backwards<br/>\nRun 800 meters<br/>\nRun 400 meters backwards</p>"
   },
   {
     "title": "Ryan",
-    "line_one": "Five rounds for time of:\n7 Muscle-ups\n21 Burpees",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n7 Muscle-ups<br/>\n21 Burpees</p>"
   },
   {
     "title": "Erin",
-    "line_one": "Five rounds for time of:\n40 pound Dumbbells split clean, 15 reps\n21 Pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n40 pound Dumbbells split clean, 15 reps<br/>\n21 Pull-ups</p>"
   },
   {
     "title": "Mr. Joshua",
-    "line_one": "Five rounds for time of:\nRun 400 meters\n30 Glute-ham sit-ups\n250 pound Deadlift, 15 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\nRun 400 meters<br/>\n30 Glute-ham sit-ups<br/>\n250 pound Deadlift, 15 reps</p>"
   },
   {
     "title": "DT",
-    "line_one": "Five rounds for time of:\n155 pound Deadlift, 12 reps\n155 pound Hang power clean, 9 reps\n155 pound Push jerk, 6 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n155 pound Deadlift, 12 reps<br/>\n155 pound Hang power clean, 9 reps<br/>\n155 pound Push jerk, 6 reps</p>"
   },
   {
     "title": "Danny",
-    "line_one": "Complete as many rounds in 20 minutes as you can of:\n24 inch Box Jump, 30 reps\n115 pound Push Press, 20 reps\n30 Pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds in 20 minutes as you can of:<br/>\n24 inch Box Jump, 30 reps<br/>\n115 pound Push Press, 20 reps<br/>\n30 Pull-ups</p>"
   },
   {
     "title": "Hansen",
-    "line_one": "Five rounds for time of:\n2 pood Kettlebell swing, 30 reps\n30 Burpees\n30 Glute-ham sit-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n2 pood Kettlebell swing, 30 reps<br/>\n30 Burpees<br/>\n30 Glute-ham sit-ups</p>"
   },
   {
     "title": "Tyler",
-    "line_one": "Five rounds for time of:\n7 Muscle-ups\n95 pound Sumo-deadlift high-pull, 21 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n7 Muscle-ups<br/>\n95 pound Sumo-deadlift high-pull, 21 reps</p>"
   },
   {
     "title": "Lumberjack 20",
-    "line_one": "20 Deadlifts (275lbs)\nRun 400m\n20 KB swings (2pood)\nRun 400m\n20 Overhead Squats (115lbs)\nRun 400m\n20 Burpees\nRun 400m\n20 Pullups (Chest to Bar)\nRun 400m\n20 Box jumps (24\u2033)\nRun 400m\n20 DB Squat Cleans (45lbs each)\nRun 400m",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>20 Deadlifts (275lbs)<br/>\nRun 400m<br/>\n20 KB swings (2pood)<br/>\nRun 400m<br/>\n20 Overhead Squats (115lbs)<br/>\nRun 400m<br/>\n20 Burpees<br/>\nRun 400m<br/>\n20 Pullups (Chest to Bar)<br/>\nRun 400m<br/>\n20 Box jumps (24″)<br/>\nRun 400m<br/>\n20 DB Squat Cleans (45lbs each)<br/>\nRun 400m</p>"
   },
   {
     "title": "Stephen",
-    "line_one": "30-25-20-15-10-5 rep rounds of:\nGHD sit-up\nBack extension\nKnees to elbow\n95 pound Stiff legged deadlift",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>30-25-20-15-10-5 rep rounds of:<br/>\nGHD sit-up<br/>\nBack extension<br/>\nKnees to elbow<br/>\n95 pound Stiff legged deadlift</p>"
   },
   {
     "title": "Garrett",
-    "line_one": "Three rounds for time of:\n75 Squats\n25 Ring handstand push-ups\n25 L-pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\n75 Squats<br/>\n25 Ring handstand push-ups<br/>\n25 L-pull-ups</p>"
   },
   {
     "title": "War Frank",
-    "line_one": "Three rounds for time of:\n25 Muscle-ups\n100 Squats\n35 GHD situps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\n25 Muscle-ups<br/>\n100 Squats<br/>\n35 GHD situps</p>"
   },
   {
     "title": "McGhee",
-    "line_one": "Complete as many rounds in 30 minutes as you can of:\n275 pound Deadlift, 5 reps\n13 Push-ups\n9 Box jumps, 24 inch box",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds in 30 minutes as you can of:<br/>\n275 pound Deadlift, 5 reps<br/>\n13 Push-ups<br/>\n9 Box jumps, 24 inch box</p>"
   },
   {
     "title": "Paul",
-    "line_one": "Five rounds for time of:\n50 Double unders\n35 Knees to elbows\n185 pound Overhead walk, 20 yards",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n50 Double unders<br/>\n35 Knees to elbows<br/>\n185 pound Overhead walk, 20 yards</p>"
   },
   {
     "title": "Jerry",
-    "line_one": "For time:\nRun 1 mile\nRow 2K\nRun 1 mile",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 1 mile<br/>\nRow 2K<br/>\nRun 1 mile</p>"
   },
   {
     "title": "Nutts",
-    "line_one": "For time:\n10 Handstand push-ups\n250 pound Deadlift, 15 reps\n25 Box jumps, 30 inch box\n50 Pull-ups\n100 Wallball shots, 20 pounds, 10\u2032\n200 Double-unders\nRun 400 meters with a 45lb plate",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n10 Handstand push-ups<br/>\n250 pound Deadlift, 15 reps<br/>\n25 Box jumps, 30 inch box<br/>\n50 Pull-ups<br/>\n100 Wallball shots, 20 pounds, 10′<br/>\n200 Double-unders<br/>\nRun 400 meters with a 45lb plate</p>"
   },
   {
     "title": "Arnie",
-    "line_one": "With a single 2 pood kettlebell:\n21 Turkish get-ups, Right arm\n50 Swings\n21 Overhead squats, Left arm\n50 Swings\n21 Overhead squats, Right arm\n50 Swings\n21 Turkish get-ups, Left arm",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>With a single 2 pood kettlebell:<br/>\n21 Turkish get-ups, Right arm<br/>\n50 Swings<br/>\n21 Overhead squats, Left arm<br/>\n50 Swings<br/>\n21 Overhead squats, Right arm<br/>\n50 Swings<br/>\n21 Turkish get-ups, Left arm</p>"
   },
   {
     "title": "The Seven",
-    "line_one": "Seven rounds for time of:\n7 Handstand push-ups\n135 pound Thruster, 7 reps\n7 Knees to elbows\n245 pound Deadlift, 7 reps\n7 Burpees\n7 Kettlebell swings, 2 pood\n7 Pull-ups\n",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Seven rounds for time of:<br/>\n7 Handstand push-ups<br/>\n135 pound Thruster, 7 reps<br/>\n7 Knees to elbows<br/>\n245 pound Deadlift, 7 reps<br/>\n7 Burpees<br/>\n7 Kettlebell swings, 2 pood<br/>\n7 Pull-ups<br/>\n</p>"
   },
   {
     "title": "RJ",
-    "line_one": "Five rounds for time of:\nRun 800 meters\n15 ft Rope Climb, 5 ascents\n50 Push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\nRun 800 meters<br/>\n15 ft Rope Climb, 5 ascents<br/>\n50 Push-ups</p>"
   },
   {
     "title": "Luce",
-    "line_one": "Wearing a 20 pound vest, three rounds for time of:\n1K Run\n10 Muscle-ups\n100 Squats",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Wearing a 20 pound vest, three rounds for time of:<br/>\n1K Run<br/>\n10 Muscle-ups<br/>\n100 Squats</p>"
   },
   {
     "title": "Johnson",
-    "line_one": "Complete as many rounds in 20 minutes as you can of:\n245 pound Deadlift, 9 reps\n8 Muscle-ups\n155 pound Squat clean, 9 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds in 20 minutes as you can of:<br/>\n245 pound Deadlift, 9 reps<br/>\n8 Muscle-ups<br/>\n155 pound Squat clean, 9 reps</p>"
   },
   {
     "title": "Roy",
-    "line_one": "Five rounds for time of:\n225 pound Deadlift, 15 reps\n20 Box jumps, 24 inch box\n25 Pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n225 pound Deadlift, 15 reps<br/>\n20 Box jumps, 24 inch box<br/>\n25 Pull-ups</p>"
   },
   {
     "title": "Adambrown",
-    "line_one": "Two rounds for time of:\n295 pound Deadlift, 24 reps\n24 Box jumps, 24 inch box\n24 Wallball shots, 20 pound ball\n195 pound Bench press, 24 reps\n24 Box jumps, 24 inch box\n24 Wallball shots, 20 pound ball\n145 pound Clean, 24 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Two rounds for time of:<br/>\n295 pound Deadlift, 24 reps<br/>\n24 Box jumps, 24 inch box<br/>\n24 Wallball shots, 20 pound ball<br/>\n195 pound Bench press, 24 reps<br/>\n24 Box jumps, 24 inch box<br/>\n24 Wallball shots, 20 pound ball<br/>\n145 pound Clean, 24 reps</p>"
   },
   {
     "title": "Coe",
-    "line_one": "Ten rounds for time of:\n95 pound Thruster, 10 reps\n10 Ring push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Ten rounds for time of:<br/>\n95 pound Thruster, 10 reps<br/>\n10 Ring push-ups</p>"
   },
   {
     "title": "Severin",
-    "line_one": "50 Strict Pull-ups\n100 Push-ups, release hands from floor at the bottom\nRun 5K",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>50 Strict Pull-ups<br/>\n100 Push-ups, release hands from floor at the bottom<br/>\nRun 5K</p>"
   },
   {
     "title": "Helton",
-    "line_one": "Three rounds for time of:\nRun 800 meters\n50 pound Dumbbell squat cleans, 30 reps\n30 Burpees",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\nRun 800 meters<br/>\n50 pound Dumbbell squat cleans, 30 reps<br/>\n30 Burpees</p>"
   },
   {
     "title": "Jack",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n115 pound Push press, 10 reps\n10 KB Swings, 1.5 pood\n10 Box jumps, 24 inch box",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n115 pound Push press, 10 reps<br/>\n10 KB Swings, 1.5 pood<br/>\n10 Box jumps, 24 inch box</p>"
   },
   {
     "title": "Forrest",
-    "line_one": "Three rounds for time of:\n20 L-pull-ups\n30 Toes to bar\n40 Burpees\nRun 800 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\n20 L-pull-ups<br/>\n30 Toes to bar<br/>\n40 Burpees<br/>\nRun 800 meters</p>"
   },
   {
     "title": "Bulger",
-    "line_one": "Ten rounds for time of:\nRun 150 meters\n7 Chest to bar pull-ups\n135 pound Front squat, 7 reps\n7 Handstand push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Ten rounds for time of:<br/>\nRun 150 meters<br/>\n7 Chest to bar pull-ups<br/>\n135 pound Front squat, 7 reps<br/>\n7 Handstand push-ups</p>"
   },
   {
     "title": "Brenton",
-    "line_one": "Five rounds for time of:\nBear crawl 100 feet\nStanding broad-jump, 100 feet",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\nBear crawl 100 feet<br/>\nStanding broad-jump, 100 feet</p>"
   },
   {
     "title": "Blake",
-    "line_one": "Four rounds for time of:\n100 foot Walking lunge with 45lb plate held overhead\n30 Box jump, 24 inch box\n20 Wallball shots, 20 pound ball\n10 Handstand push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Four rounds for time of:<br/>\n100 foot Walking lunge with 45lb plate held overhead<br/>\n30 Box jump, 24 inch box<br/>\n20 Wallball shots, 20 pound ball<br/>\n10 Handstand push-ups</p>"
   },
   {
     "title": "Collin",
-    "line_one": "Six rounds for time of:\nCarry 50 pound sandbag 400 meters\n115 pound Push press, 12 reps\n12 Box jumps, 24 inch box\n95 pound Sumo deadlift high-pull, 12 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Six rounds for time of:<br/>\nCarry 50 pound sandbag 400 meters<br/>\n115 pound Push press, 12 reps<br/>\n12 Box jumps, 24 inch box<br/>\n95 pound Sumo deadlift high-pull, 12 reps</p>"
   },
   {
     "title": "Thompson",
-    "line_one": "10 rounds for time of:\n15 ft Rope Climb, 1 ascent\n95 pound Back squat, 29 reps\n135 pound barbells Farmer carry, 10 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>10 rounds for time of:<br/>\n15 ft Rope Climb, 1 ascent<br/>\n95 pound Back squat, 29 reps<br/>\n135 pound barbells Farmer carry, 10 meters</p>"
   },
   {
     "title": "Whitten",
-    "line_one": "Five rounds for time of:\n22 Kettlebell swings, 2 pood\n22 Box jump, 24 inch box\nRun 400 meters\n22 Burpees\n22 Wall ball shots, 20 pound ball",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n22 Kettlebell swings, 2 pood<br/>\n22 Box jump, 24 inch box<br/>\nRun 400 meters<br/>\n22 Burpees<br/>\n22 Wall ball shots, 20 pound ball</p>"
   },
   {
     "title": "Bull",
-    "line_one": "Two rounds for time of:\n200 Double-unders\n135 pound Overhead squat, 50 reps\n50 Pull-ups\nRun 1 mile",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Two rounds for time of:<br/>\n200 Double-unders<br/>\n135 pound Overhead squat, 50 reps<br/>\n50 Pull-ups<br/>\nRun 1 mile</p>"
   },
   {
     "title": "Rankel",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n225 pound Deadlift, 6 reps\n7 Burpee pull-ups\n10 Kettlebell swings, 2 pood\nRun 200 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n225 pound Deadlift, 6 reps<br/>\n7 Burpee pull-ups<br/>\n10 Kettlebell swings, 2 pood<br/>\nRun 200 meters</p>"
   },
   {
     "title": "Holbrook",
-    "line_one": "Ten rounds, each for time of:\n115 pound Thruster, 5 reps\n10 Pull-ups\n100 meter Sprint\nRest 1 minute",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Ten rounds, each for time of:<br/>\n115 pound Thruster, 5 reps<br/>\n10 Pull-ups<br/>\n100 meter Sprint<br/>\nRest 1 minute</p>"
   },
   {
     "title": "Ledesma",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n5 Parallette handstand push-ups\n10 Toes through rings\n20 pound Medicine ball cleans, 15 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n5 Parallette handstand push-ups<br/>\n10 Toes through rings<br/>\n20 pound Medicine ball cleans, 15 reps</p>"
   },
   {
     "title": "Wittman",
-    "line_one": "Seven rounds for time of:\n1.5 pood Kettlebell swing, 15 reps\n95 pound Power clean, 15 reps\n15 Box jumps, 24\u2033 box",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Seven rounds for time of:<br/>\n1.5 pood Kettlebell swing, 15 reps<br/>\n95 pound Power clean, 15 reps<br/>\n15 Box jumps, 24″ box</p>"
   },
   {
     "title": "McCluskey",
-    "line_one": "Three rounds of:\n9 Muscle-ups\n15 Burpee pull-ups\n21 Pull-ups\nRun 800 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds of:<br/>\n9 Muscle-ups<br/>\n15 Burpee pull-ups<br/>\n21 Pull-ups<br/>\nRun 800 meters</p>"
   },
   {
     "title": "Weaver",
-    "line_one": "Four rounds for time of:\n10 L-pull-ups\n15 Push-ups\n15 Chest to bar Pull-ups\n15 Push-ups\n20 Pull-ups\n15 Push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Four rounds for time of:<br/>\n10 L-pull-ups<br/>\n15 Push-ups<br/>\n15 Chest to bar Pull-ups<br/>\n15 Push-ups<br/>\n20 Pull-ups<br/>\n15 Push-ups</p>"
   },
   {
     "title": "Abbate",
-    "line_one": "Run 1 mile\n155 pound Clean and jerk, 21 reps\nRun 800 meters\n155 pound Clean and jerk, 21 reps\nRun 1 Mile",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Run 1 mile<br/>\n155 pound Clean and jerk, 21 reps<br/>\nRun 800 meters<br/>\n155 pound Clean and jerk, 21 reps<br/>\nRun 1 Mile</p>"
   },
   {
     "title": "Hammer",
-    "line_one": "Five rounds, each for time, of:\n135 pound Power clean, 5 reps\n135 pound Front squat, 10 reps\n135 pound Jerk, 5 reps\n20 Pull-ups\nRest 90 seconds",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds, each for time, of:<br/>\n135 pound Power clean, 5 reps<br/>\n135 pound Front squat, 10 reps<br/>\n135 pound Jerk, 5 reps<br/>\n20 Pull-ups<br/>\nRest 90 seconds</p>"
   },
   {
     "title": "Moore",
-    "line_one": "Complete as many rounds in 20 minutes as you can of:\n15 ft Rope Climb, 1 ascent\nRun 400 meters\nMax rep Handstand push-up",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds in 20 minutes as you can of:<br/>\n15 ft Rope Climb, 1 ascent<br/>\nRun 400 meters<br/>\nMax rep Handstand push-up</p>"
   },
   {
     "title": "Wilmot",
-    "line_one": "Six rounds for time of:\n50 Squats\n25 Ring dips",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Six rounds for time of:<br/>\n50 Squats<br/>\n25 Ring dips</p>"
   },
   {
     "title": "Moon",
-    "line_one": "Seven rounds for time of:\n40 pound dumbbell Hang split snatch, 10 reps Right arm\n15 ft Rope Climb, 1 ascent\n40 pound dumbbell Hang split snatch, 10 reps Left arm\n15 ft Rope Climb, 1 ascent",
-    "line_two": "Alternate feet in the split snatch sets.",
-    "line_three": ""
+    "content": "<p>Seven rounds for time of:<br/>\n40 pound dumbbell Hang split snatch, 10 reps Right arm<br/>\n15 ft Rope Climb, 1 ascent<br/>\n40 pound dumbbell Hang split snatch, 10 reps Left arm<br/>\n15 ft Rope Climb, 1 ascent<br/>\nAlternate feet in the split snatch sets.</p>"
   },
   {
     "title": "Small",
-    "line_one": "Three rounds for time of:\nRow 1000 meters\n50 Burpees\n50 Box jumps, 24\u2033 box\nRun 800 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\nRow 1000 meters<br/>\n50 Burpees<br/>\n50 Box jumps, 24″ box<br/>\nRun 800 meters</p>"
   },
   {
     "title": "Morrison",
-    "line_one": "50-40-30-20 and 10 rep rounds of:\nWall ball shots, 20 pound ball\nBox jump, 24 inch box\nKettlebell swings, 1.5 pood",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>50-40-30-20 and 10 rep rounds of:<br/>\nWall ball shots, 20 pound ball<br/>\nBox jump, 24 inch box<br/>\nKettlebell swings, 1.5 pood</p>"
   },
   {
     "title": "Manion",
-    "line_one": "Seven rounds for time of:\nRun 400 meters\n135 pound Back squat, 29 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Seven rounds for time of:<br/>\nRun 400 meters<br/>\n135 pound Back squat, 29 reps</p>"
   },
   {
     "title": "Gator",
-    "line_one": "Eight rounds for time of:\n185 pound Front squat, 5 reps\n26 Ring push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Eight rounds for time of:<br/>\n185 pound Front squat, 5 reps<br/>\n26 Ring push-ups</p>"
   },
   {
     "title": "Bradley",
-    "line_one": "10 rounds for time of:\nSprint 100 meters\n10 Pull-ups\nSprint 100 meters\n10 Burpees\nRest 30 seconds",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>10 rounds for time of:<br/>\nSprint 100 meters<br/>\n10 Pull-ups<br/>\nSprint 100 meters<br/>\n10 Burpees<br/>\nRest 30 seconds</p>"
   },
   {
     "title": "Meadows",
-    "line_one": "For time:\n20 Muscle-ups\n25\u00a0Lowers from an inverted hang\u00a0on the rings, slowly, with straight body and arms\n30 Ring handstand push-ups\n35 Ring rows\n40 Ring push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n20 Muscle-ups<br/>\n25 Lowers from an inverted hang on the rings, slowly, with straight body and arms<br/>\n30 Ring handstand push-ups<br/>\n35 Ring rows<br/>\n40 Ring push-ups</p>"
   },
   {
     "title": "Santiago",
-    "line_one": "Seven rounds for time of:\n35 pound Dumbbell hang squat clean, 18 reps\n18 Pull-ups\n135 pound Power clean, 10 reps\n10 Handstand push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Seven rounds for time of:<br/>\n35 pound Dumbbell hang squat clean, 18 reps<br/>\n18 Pull-ups<br/>\n135 pound Power clean, 10 reps<br/>\n10 Handstand push-ups</p>"
   },
   {
     "title": "Carse",
-    "line_one": "21-18-15-12-9-6-3 reps for time of:\n95 pound Squat clean\nDouble-under\n185 pound Deadlift\n24\u2033 Box jump\nBegin each round with a 50 meter Bear crawl.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>21-18-15-12-9-6-3 reps for time of:<br/>\n95 pound Squat clean<br/>\nDouble-under<br/>\n185 pound Deadlift<br/>\n24″ Box jump<br/>\nBegin each round with a 50 meter Bear crawl.</p>"
   },
   {
     "title": "Bradshaw",
-    "line_one": "10 rounds for time of:\n3 Handstand push-ups\n225 pound Deadlift, 6 reps\n12 Pull-ups\n24 Double-unders",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>10 rounds for time of:<br/>\n3 Handstand push-ups<br/>\n225 pound Deadlift, 6 reps<br/>\n12 Pull-ups<br/>\n24 Double-unders</p>"
   },
   {
     "title": "White",
-    "line_one": "Five rounds for time of:\n15\u2032 Rope climb, 3 ascents\n10 Toes to bar\n21 Walking lunge steps with 45lb plate held overhead\nRun 400 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n15′ Rope climb, 3 ascents<br/>\n10 Toes to bar<br/>\n21 Walking lunge steps with 45lb plate held overhead<br/>\nRun 400 meters</p>"
   },
   {
     "title": "Santora",
-    "line_one": "Three rounds for reps of:\n155 pound Squat cleans, 1 minute\n20\u2032 Shuttle sprints (20\u2032 forward + 20\u2032 backwards = 1 rep), 1 minute\n245 pound Deadlifts, 1 minute\nBurpees, 1 minute\n155 pound Jerks, 1 minute\nRest 1 minute",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for reps of:<br/>\n155 pound Squat cleans, 1 minute<br/>\n20′ Shuttle sprints (20′ forward + 20′ backwards = 1 rep), 1 minute<br/>\n245 pound Deadlifts, 1 minute<br/>\nBurpees, 1 minute<br/>\n155 pound Jerks, 1 minute<br/>\nRest 1 minute</p>"
   },
   {
     "title": "Wood",
-    "line_one": "5 Rounds for time of:\nRun 400 meters\n10 Burpee box jumps, 24\u2033 box\n95 pound Sumo-deadlift high-pull, 10 reps\n95 pound Thruster, 10 reps\nRest 1 minute",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 Rounds for time of:<br/>\nRun 400 meters<br/>\n10 Burpee box jumps, 24″ box<br/>\n95 pound Sumo-deadlift high-pull, 10 reps<br/>\n95 pound Thruster, 10 reps<br/>\nRest 1 minute</p>"
   },
   {
     "title": "Hidalgo",
-    "line_one": "For time:\nRun 2 miles\nRest 2 minutes\n135 pound Squat clean, 20 reps\n20 Box jump, 24\u2033 box\n20 Walking lunge steps with 45lb plate held overhead\n20 Box jump, 24\u2033 box\n135 pound Squat clean, 20 reps\nRest 2 minutes\nRun 2 miles",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 2 miles<br/>\nRest 2 minutes<br/>\n135 pound Squat clean, 20 reps<br/>\n20 Box jump, 24″ box<br/>\n20 Walking lunge steps with 45lb plate held overhead<br/>\n20 Box jump, 24″ box<br/>\n135 pound Squat clean, 20 reps<br/>\nRest 2 minutes<br/>\nRun 2 miles</p>"
   },
   {
     "title": "Ricky",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n10 Pull-ups\n75 pound dumbbell Deadlift, 5 reps\n135 pound Push-press, 8 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n10 Pull-ups<br/>\n75 pound dumbbell Deadlift, 5 reps<br/>\n135 pound Push-press, 8 reps</p>"
   },
   {
     "title": "Dae Han",
-    "line_one": "Three rounds for time of:\nRun 800 meters with a 45 pound barbell\n15 foot Rope climb, 3 ascents\n135 pound Thruster, 12 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\nRun 800 meters with a 45 pound barbell<br/>\n15 foot Rope climb, 3 ascents<br/>\n135 pound Thruster, 12 reps</p>"
   },
   {
     "title": "Desforges",
-    "line_one": "Five rounds for time of:\n225 pound Deadlift, 12 reps\n20 Pull-ups\n135 pound Clean and jerk, 12 reps\n20 Knees to elbows",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\n225 pound Deadlift, 12 reps<br/>\n20 Pull-ups<br/>\n135 pound Clean and jerk, 12 reps<br/>\n20 Knees to elbows</p>"
   },
   {
     "title": "Rahoi",
-    "line_one": "Complete as many rounds as possible in 12 minutes of:\n24 inch Box Jump, 12 reps\n95 pound Thruster, 6 reps\n6 Bar-facing burpees",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 12 minutes of:<br/>\n24 inch Box Jump, 12 reps<br/>\n95 pound Thruster, 6 reps<br/>\n6 Bar-facing burpees</p>"
   },
   {
     "title": "Zimmerman",
-    "line_one": "Complete as many rounds as possible in 25 minutes of:\n11 Chest-to-bar pull-ups\n2 Deadlifts, 315 pounds\n10 Handstand push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 25 minutes of:<br/>\n11 Chest-to-bar pull-ups<br/>\n2 Deadlifts, 315 pounds<br/>\n10 Handstand push-ups</p>"
   },
   {
     "title": "Klepto",
-    "line_one": "4 rounds for time of:\n27 Box jumps, 24\u2033 box\n20 Burpees\n11 Squat cleans, 145 pounds",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>4 rounds for time of:<br/>\n27 Box jumps, 24″ box<br/>\n20 Burpees<br/>\n11 Squat cleans, 145 pounds</p>"
   },
   {
     "title": "Del",
-    "line_one": "For Time:\n25 Burpees\nRun 400 meters with a 20 pound medicine ball\n25 Weighted pull-ups with a 20 pound dumbbell\nRun 400 meters with a 20 pound medicine ball\n25 Handstand push-ups\nRun 400 meters with a 20 pound medicine ball\n25 Chest-to-bar pull-ups\nRun 400 meters with a 20 pound medicine ball\n25 Burpees",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For Time:<br/>\n25 Burpees<br/>\nRun 400 meters with a 20 pound medicine ball<br/>\n25 Weighted pull-ups with a 20 pound dumbbell<br/>\nRun 400 meters with a 20 pound medicine ball<br/>\n25 Handstand push-ups<br/>\nRun 400 meters with a 20 pound medicine ball<br/>\n25 Chest-to-bar pull-ups<br/>\nRun 400 meters with a 20 pound medicine ball<br/>\n25 Burpees</p>"
   },
   {
     "title": "Pheezy",
-    "line_one": "Three rounds for time of:\n165 pound Front squat, 5 reps\n18 Pull-ups\n225 pound Deadlift, 5 reps\n18 Toes-to-bar\n165 pound Push jerk, 5 reps\n18 Hand-release push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\n165 pound Front squat, 5 reps<br/>\n18 Pull-ups<br/>\n225 pound Deadlift, 5 reps<br/>\n18 Toes-to-bar<br/>\n165 pound Push jerk, 5 reps<br/>\n18 Hand-release push-ups</p>"
   },
   {
     "title": "J.J.",
-    "line_one": "For time:\n185 pound Squat clean, 1 rep\n10 Parallette handstand push-ups\n185 pound Squat clean, 2 reps\n9 Parallette handstand push-ups\n185 pound Squat clean, 3 reps\n8 Parallette handstand push-ups\n185 pound Squat clean, 4 reps\n7 Parallette handstand push-ups\n185 pound Squat clean, 5 reps\n6 Parallette handstand push-ups\n185 pound Squat clean, 6 reps\n5 Parallette handstand push-ups\n185 pound Squat clean, 7 reps\n4 Parallette handstand push-ups\n185 pound Squat clean, 8 reps\n3 Parallette handstand push-ups\n185 pound Squat clean, 9 reps\n2 Parallette handstand push-ups\n185 pound Squat clean, 10 reps\n1 Parallette handstand push-up",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n185 pound Squat clean, 1 rep<br/>\n10 Parallette handstand push-ups<br/>\n185 pound Squat clean, 2 reps<br/>\n9 Parallette handstand push-ups<br/>\n185 pound Squat clean, 3 reps<br/>\n8 Parallette handstand push-ups<br/>\n185 pound Squat clean, 4 reps<br/>\n7 Parallette handstand push-ups<br/>\n185 pound Squat clean, 5 reps<br/>\n6 Parallette handstand push-ups<br/>\n185 pound Squat clean, 6 reps<br/>\n5 Parallette handstand push-ups<br/>\n185 pound Squat clean, 7 reps<br/>\n4 Parallette handstand push-ups<br/>\n185 pound Squat clean, 8 reps<br/>\n3 Parallette handstand push-ups<br/>\n185 pound Squat clean, 9 reps<br/>\n2 Parallette handstand push-ups<br/>\n185 pound Squat clean, 10 reps<br/>\n1 Parallette handstand push-up</p>"
   },
   {
     "title": "Jag 28",
-    "line_one": "For time:\nRun 800 meters\n28 Kettlebell swings, 2 pood\n28 Strict Pull-ups\n28 Kettlebell clean and jerk, 2 pood each\n28 Strict Pull-ups\nRun 800 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 800 meters<br/>\n28 Kettlebell swings, 2 pood<br/>\n28 Strict Pull-ups<br/>\n28 Kettlebell clean and jerk, 2 pood each<br/>\n28 Strict Pull-ups<br/>\nRun 800 meters</p>"
   },
   {
     "title": "Brian",
-    "line_one": "Three rounds for time of:\n15 foot Rope climb, 5 ascents\n185 pound Back squat, 25 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\n15 foot Rope climb, 5 ascents<br/>\n185 pound Back squat, 25 reps</p>"
   },
   {
     "title": "Nick",
-    "line_one": "12 rounds for time of:\n45 pound Dumbbell hang squat clean, 10 reps\n6 Handstand push-ups on dumbbells",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>12 rounds for time of:<br/>\n45 pound Dumbbell hang squat clean, 10 reps<br/>\n6 Handstand push-ups on dumbbells</p>"
   },
   {
     "title": "Strange",
-    "line_one": "Eight rounds for time of:\n600 meter Run\n1.5 pood Weighted pull-up, 11 reps\n11 Walking lunge steps, carrying 1.5 pood kettlebells\n1.5 pood Kettlebell thruster, 11 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Eight rounds for time of:<br/>\n600 meter Run<br/>\n1.5 pood Weighted pull-up, 11 reps<br/>\n11 Walking lunge steps, carrying 1.5 pood kettlebells<br/>\n1.5 pood Kettlebell thruster, 11 reps</p>"
   },
   {
     "title": "Tumilson",
-    "line_one": "8 rounds for time of:\nRun 200 meters\n11 Dumbbell burpee deadlifts, 60 pound dumbbells",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>8 rounds for time of:<br/>\nRun 200 meters<br/>\n11 Dumbbell burpee deadlifts, 60 pound dumbbells</p>"
   },
   {
     "title": "Ship",
-    "line_one": "Nine rounds for time of:\n185 pound Squat clean, 7 reps\n8 Burpee box jumps, 36\u2033 box",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Nine rounds for time of:<br/>\n185 pound Squat clean, 7 reps<br/>\n8 Burpee box jumps, 36″ box</p>"
   },
   {
     "title": "Jared",
-    "line_one": "4 rounds for time of:\nRun 800 meters\n40 Pull-ups\n70 Push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>4 rounds for time of:<br/>\nRun 800 meters<br/>\n40 Pull-ups<br/>\n70 Push-ups</p>"
   },
   {
     "title": "Tully",
-    "line_one": "Four rounds for time of:\nSwim 200 meters\n40 pound Dumbbell squat cleans, 23 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Four rounds for time of:<br/>\nSwim 200 meters<br/>\n40 pound Dumbbell squat cleans, 23 reps</p>"
   },
   {
     "title": "Holleyman",
-    "line_one": "30 rounds for time of:\n5 Wall ball shots, 20 pound ball\n3 Handstand push-ups\n225 pound Power clean, 1 rep",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>30 rounds for time of:<br/>\n5 Wall ball shots, 20 pound ball<br/>\n3 Handstand push-ups<br/>\n225 pound Power clean, 1 rep</p>"
   },
   {
     "title": "Adrian",
-    "line_one": "Seven rounds for time of:\n3 Forward rolls\n5 Wall climbs\n7 Toes to bar\n9 Box jumps, 30\u2033 box",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Seven rounds for time of:<br/>\n3 Forward rolls<br/>\n5 Wall climbs<br/>\n7 Toes to bar<br/>\n9 Box jumps, 30″ box</p>"
   },
   {
     "title": "Glen",
-    "line_one": "For time:\n135 pound Clean and jerk, 30 reps\nRun 1 mile\n15 foot Rope climb, 10 ascents\nRun 1 mile\n100 Burpees",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n135 pound Clean and jerk, 30 reps<br/>\nRun 1 mile<br/>\n15 foot Rope climb, 10 ascents<br/>\nRun 1 mile<br/>\n100 Burpees</p>"
   },
   {
     "title": "Tom",
-    "line_one": "Complete as many rounds in 25 minutes as you can of:\n7 Muscle-ups\n155 pound Thruster, 11 reps\n14 Toes-to-bar",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds in 25 minutes as you can of:<br/>\n7 Muscle-ups<br/>\n155 pound Thruster, 11 reps<br/>\n14 Toes-to-bar</p>"
   },
   {
     "title": "Ralph",
-    "line_one": "Four rounds for time of:\n250 pound Deadlift, 8 reps\n16 Burpees\n15 foot Rope climb, 3 ascents\nRun 600 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Four rounds for time of:<br/>\n250 pound Deadlift, 8 reps<br/>\n16 Burpees<br/>\n15 foot Rope climb, 3 ascents<br/>\nRun 600 meters</p>"
   },
   {
     "title": "Clovis",
-    "line_one": "For time:\nRun 10 miles\n150 Burpee pull-ups",
-    "line_two": "Partition the run and burpee pull-ups as needed.",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 10 miles<br/>\n150 Burpee pull-ups<br/>\nPartition the run and burpee pull-ups as needed.</p>"
   },
   {
     "title": "Weston",
-    "line_one": "Five rounds for time of:\nRow 1000 meters\n200 meter Farmer carry, 45 pound dumbbells\n45 pound dumbbell Waiter walk, 50 meters, Right arm\n45 pound dumbbell Waiter walk, 50 meters, Left arm",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\nRow 1000 meters<br/>\n200 meter Farmer carry, 45 pound dumbbells<br/>\n45 pound dumbbell Waiter walk, 50 meters, Right arm<br/>\n45 pound dumbbell Waiter walk, 50 meters, Left arm</p>"
   },
   {
     "title": "Loredo",
-    "line_one": "Six rounds for time of:\n24 Squats\n24 Push-ups\n24 Walking lunge steps\nRun 400 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Six rounds for time of:<br/>\n24 Squats<br/>\n24 Push-ups<br/>\n24 Walking lunge steps<br/>\nRun 400 meters</p>"
   },
   {
     "title": "Sean",
-    "line_one": "Ten rounds for time of:\n11 Chest to bar pull-ups\n75 pound Front squat, 22 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Ten rounds for time of:<br/>\n11 Chest to bar pull-ups<br/>\n75 pound Front squat, 22 reps</p>"
   },
   {
     "title": "Hortman",
-    "line_one": "Complete as many rounds as possible in 45 minutes of:\nRun 800 meters\n80 Squats\n8 Muscle-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 45 minutes of:<br/>\nRun 800 meters<br/>\n80 Squats<br/>\n8 Muscle-ups</p>"
   },
   {
     "title": "Hamilton",
-    "line_one": "Three rounds for time of:\nRow 1000 meters\n50 Push-ups\nRun 1000 meters\n50 Pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\nRow 1000 meters<br/>\n50 Push-ups<br/>\nRun 1000 meters<br/>\n50 Pull-ups</p>"
   },
   {
     "title": "Zeus",
-    "line_one": "Three rounds for time of:\n30 Wall ball shots, 20 pound ball\n75 pound Sumo deadlift high-pull, 30 reps\n30 Box jump, 20\u2033 box\n75 pound Push press, 30 reps\nRow 30 calories\n30 Push-ups\nBody weight Back squat, 10 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\n30 Wall ball shots, 20 pound ball<br/>\n75 pound Sumo deadlift high-pull, 30 reps<br/>\n30 Box jump, 20″ box<br/>\n75 pound Push press, 30 reps<br/>\nRow 30 calories<br/>\n30 Push-ups<br/>\nBody weight Back squat, 10 reps</p>"
   },
   {
     "title": "Barraza",
-    "line_one": "Complete as many rounds as possible in 18 minutes of:\nRun 200 meters\n275 pound Deadlift, 9 reps\n6\u00a0Burpee bar muscle-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 18 minutes of:<br/>\nRun 200 meters<br/>\n275 pound Deadlift, 9 reps<br/>\n6 Burpee bar muscle-ups</p>"
   },
   {
     "title": "Cameron",
-    "line_one": "For time:\n50 Walking lunge steps\n25 Chest to bar pull-ups\n50 Box jumps, 24 inch box\n25\u00a0Triple-unders\u00a050 Back extensions\n25 Ring dips\n50 Knees to elbows\n25\u00a0Wallball \u201c2-fer-1s\u201d, 20 pound ball\n50 Sit-ups\n15 foot Rope climb, 5 ascents",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n50 Walking lunge steps<br/>\n25 Chest to bar pull-ups<br/>\n50 Box jumps, 24 inch box<br/>\n25 Triple-unders 50 Back extensions<br/>\n25 Ring dips<br/>\n50 Knees to elbows<br/>\n25 Wallball “2-fer-1s”, 20 pound ball<br/>\n50 Sit-ups<br/>\n15 foot Rope climb, 5 ascents</p>"
   },
   {
     "title": "Jorge",
-    "line_one": "For time:\n30 GHD sit-ups\n155 pound Squat clean, 15 reps\n24 GHD sit-ups\n155 pound Squat clean, 12 reps\n18 GHD sit-ups\n155 pound Squat clean, 9 reps\n12 GHD sit-ups\n155 pound Squat clean, 6 reps\n6 GHD sit-ups\n155 pound Squat clean, 3 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n30 GHD sit-ups<br/>\n155 pound Squat clean, 15 reps<br/>\n24 GHD sit-ups<br/>\n155 pound Squat clean, 12 reps<br/>\n18 GHD sit-ups<br/>\n155 pound Squat clean, 9 reps<br/>\n12 GHD sit-ups<br/>\n155 pound Squat clean, 6 reps<br/>\n6 GHD sit-ups<br/>\n155 pound Squat clean, 3 reps</p>"
   },
   {
     "title": "Schmalls",
-    "line_one": "Run 800 meters\nThen two rounds of:\n50 Burpees\n40 Pull-ups\n30 One-legged squats\n20 Kettlebell swings, 1.5 pood\n10 Handstand push-ups\nThen,\nRun 800 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Run 800 meters<br/>\nThen two rounds of:<br/>\n50 Burpees<br/>\n40 Pull-ups<br/>\n30 One-legged squats<br/>\n20 Kettlebell swings, 1.5 pood<br/>\n10 Handstand push-ups<br/>\nThen,<br/>\nRun 800 meters</p>"
   },
   {
     "title": "Brehm",
-    "line_one": "For time:\n15 foot Rope climb, 10 ascents\n225 pound Back squat, 20 reps\n30 Handstand push-ups\nRow 40 calories",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n15 foot Rope climb, 10 ascents<br/>\n225 pound Back squat, 20 reps<br/>\n30 Handstand push-ups<br/>\nRow 40 calories</p>"
   },
   {
     "title": "Omar",
-    "line_one": "For time:\n95 pound barbell Thrusters, 10\n15 Bar-facing burpees\n95 pound barbell Thrusters, 20\n25 Bar-facing burpees\n95 pound barbell Thrusters, 30\n35 Bar-facing burpees",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n95 pound barbell Thrusters, 10<br/>\n15 Bar-facing burpees<br/>\n95 pound barbell Thrusters, 20<br/>\n25 Bar-facing burpees<br/>\n95 pound barbell Thrusters, 30<br/>\n35 Bar-facing burpees</p>"
   },
   {
     "title": "Gallant",
-    "line_one": "For time:\nRun 1 mile with a 20 pound medicine ball\n60 Burpee pull-ups\nRun 800 meters with a 20 pound medicine ball\n30 Burpee pull-ups\nRun 400 meters with a 20 pound medicine ball\n15 Burpee pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 1 mile with a 20 pound medicine ball<br/>\n60 Burpee pull-ups<br/>\nRun 800 meters with a 20 pound medicine ball<br/>\n30 Burpee pull-ups<br/>\nRun 400 meters with a 20 pound medicine ball<br/>\n15 Burpee pull-ups</p>"
   },
   {
     "title": "Bruck",
-    "line_one": "Four rounds for time of:\nRun 400 meters\n185 pound Back squat, 24 reps\n135 pound Jerk, 24 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Four rounds for time of:<br/>\nRun 400 meters<br/>\n185 pound Back squat, 24 reps<br/>\n135 pound Jerk, 24 reps</p>"
   },
   {
     "title": "Smykowski",
-    "line_one": "For time:\nRun 6k\n60 Burpee pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 6k<br/>\n60 Burpee pull-ups</p>"
   },
   {
     "title": "Falkel",
-    "line_one": "Complete as many rounds as possible in 25 minutes of:\n8 Handstand push-ups\n8 Box jump, 30 inch box\n15 foot Rope climb, 1 ascent",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 25 minutes of:<br/>\n8 Handstand push-ups<br/>\n8 Box jump, 30 inch box<br/>\n15 foot Rope climb, 1 ascent</p>"
   },
   {
     "title": "Donny",
-    "line_one": "21-15-9-9-15-21 reps for time of:\n225 pound Deadlift\nBurpee",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>21-15-9-9-15-21 reps for time of:<br/>\n225 pound Deadlift<br/>\nBurpee</p>"
   },
   {
     "title": "Dobogai",
-    "line_one": "Seven rounds for time of:\n8 Muscle-ups\n22 yard Farmer carry, 50 pound dumbbells",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Seven rounds for time of:<br/>\n8 Muscle-ups<br/>\n22 yard Farmer carry, 50 pound dumbbells</p>"
   },
   {
     "title": "Hotshots 19",
-    "line_one": "Six rounds for time of:\n30 Squats\n135 pound Power clean, 19 reps\n7 Strict Pull-ups\nRun 400 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Six rounds for time of:<br/>\n30 Squats<br/>\n135 pound Power clean, 19 reps<br/>\n7 Strict Pull-ups<br/>\nRun 400 meters</p>"
   },
   {
     "title": "Roney",
-    "line_one": "Four rounds for time of:\nRun 200 meters\n135 pound Thruster, 11 reps\nRun 200 meters\n135 pound Push press, 11 reps\nRun 200 meters\n135 pound Bench press, 11 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Four rounds for time of:<br/>\nRun 200 meters<br/>\n135 pound Thruster, 11 reps<br/>\nRun 200 meters<br/>\n135 pound Push press, 11 reps<br/>\nRun 200 meters<br/>\n135 pound Bench press, 11 reps</p>"
   },
   {
     "title": "The Don",
-    "line_one": "For time:\n66 Deadlifts, 110 pounds\n66 Box jump, 24 inch box\n66 Kettlebell swings, 1.5 pood\n66 Knees to elbows\n66 Sit-ups\n66 Pull-ups\n66 Thrusters, 55 pounds\n66 Wall ball shots, 20 pound ball\n66 Burpees\n66 Double-unders",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n66 Deadlifts, 110 pounds<br/>\n66 Box jump, 24 inch box<br/>\n66 Kettlebell swings, 1.5 pood<br/>\n66 Knees to elbows<br/>\n66 Sit-ups<br/>\n66 Pull-ups<br/>\n66 Thrusters, 55 pounds<br/>\n66 Wall ball shots, 20 pound ball<br/>\n66 Burpees<br/>\n66 Double-unders</p>"
   },
   {
     "title": "Dragon",
-    "line_one": "For time:\nRun 5k\n4 minutes to find 4 rep max Deadlift\nRun 5k\n4 minutes to find 4 rep max Push jerk",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 5k<br/>\n4 minutes to find 4 rep max Deadlift<br/>\nRun 5k<br/>\n4 minutes to find 4 rep max Push jerk</p>"
   },
   {
     "title": "Walsh",
-    "line_one": "Four rounds for time of:\n22 Burpee pull-ups\n185 pound Back squat, 22 reps\nRun 200 meters with a 45 pound plate overhead",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Four rounds for time of:<br/>\n22 Burpee pull-ups<br/>\n185 pound Back squat, 22 reps<br/>\nRun 200 meters with a 45 pound plate overhead</p>"
   },
   {
     "title": "Lee",
-    "line_one": "Five rounds for time of:\nRun 400 meters\n345 pound Deadlift, 1 rep\n185 pound Squat clean, 3 reps\n185 pound Push jerk, 5 reps\n3 Muscle-ups\n15 foot Rope climb, 1 ascent",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Five rounds for time of:<br/>\nRun 400 meters<br/>\n345 pound Deadlift, 1 rep<br/>\n185 pound Squat clean, 3 reps<br/>\n185 pound Push jerk, 5 reps<br/>\n3 Muscle-ups<br/>\n15 foot Rope climb, 1 ascent</p>"
   },
   {
     "title": "Willy",
-    "line_one": "Three rounds for time of:\nRun 800 meters\n225 pound Front squat, 5 reps\nRun 200 meters\n11 Chest to bar pull-ups\nRun 400 meters\n12 Kettlebell swings, 2 pood",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Three rounds for time of:<br/>\nRun 800 meters<br/>\n225 pound Front squat, 5 reps<br/>\nRun 200 meters<br/>\n11 Chest to bar pull-ups<br/>\nRun 400 meters<br/>\n12 Kettlebell swings, 2 pood</p>"
   },
   {
     "title": "Coffey",
-    "line_one": "For time:\nRun 800 meters\n135 pound Back squat, 50 reps\n135 pound Bench press, 50 reps\nRun 800 meters\n135 pound Back squat, 35 reps\n135 pound Bench press, 35 reps\nRun 800 meters\n135 pound Back squat, 20 reps\n135 pound Bench press, 20 reps\nRun 800 meters\n1 Muscle-up",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 800 meters<br/>\n135 pound Back squat, 50 reps<br/>\n135 pound Bench press, 50 reps<br/>\nRun 800 meters<br/>\n135 pound Back squat, 35 reps<br/>\n135 pound Bench press, 35 reps<br/>\nRun 800 meters<br/>\n135 pound Back squat, 20 reps<br/>\n135 pound Bench press, 20 reps<br/>\nRun 800 meters<br/>\n1 Muscle-up</p>"
   },
   {
     "title": "DG",
-    "line_one": "Complete as many rounds as possible in 10 minutes of:\n8 Toes to bar\n35 pound Dumbbell thruster, 8 reps\n35 pound Dumbbell walking lunge, 12 steps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 10 minutes of:<br/>\n8 Toes to bar<br/>\n35 pound Dumbbell thruster, 8 reps<br/>\n35 pound Dumbbell walking lunge, 12 steps</p>"
   },
   {
     "title": "TK",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n8 Strict Pull-ups\n8 Box jumps, 36\u2033 box\n12 Kettlebell swings, 2 pood",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n8 Strict Pull-ups<br/>\n8 Box jumps, 36″ box<br/>\n12 Kettlebell swings, 2 pood</p>"
   },
   {
     "title": "Taylor",
-    "line_one": "4 rounds for time of:\nRun 400 meters\n5 burpee muscle-ups",
-    "line_two": "If you\u2019ve got a 20-lb. vest or body armor, wear it.",
-    "line_three": ""
+    "content": "<p>4 rounds for time of:<br/>\nRun 400 meters<br/>\n5 burpee muscle-ups<br/>\nIf you’ve got a 20-lb. vest or body armor, wear it.</p>"
   },
   {
     "title": "Justin",
-    "line_one": "30-20-10 reps for time of:\nBody-weight back squats\nBody-weight bench presses\nStrict pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>30-20-10 reps for time of:<br/>\nBody-weight back squats<br/>\nBody-weight bench presses<br/>\nStrict pull-ups</p>"
   },
   {
     "title": "Nukes",
-    "line_one": "8 minutes to complete:\n1-mile run\n315-lb. deadlifts, max reps\nThen, 10 minutes to complete:\n1-mile run\n225-lb. power cleans, max reps\nThen, 12 minutes to complete:\n1-mile run\n135-lb. overhead squats, max reps",
-    "line_two": "Do not rest between rounds.",
-    "line_three": ""
+    "content": "<p>8 minutes to complete:<br/>\n1-mile run<br/>\n315-lb. deadlifts, max reps<br/>\nThen, 10 minutes to complete:<br/>\n1-mile run<br/>\n225-lb. power cleans, max reps<br/>\nThen, 12 minutes to complete:<br/>\n1-mile run<br/>\n135-lb. overhead squats, max reps<br/>\nDo not rest between rounds.</p>"
   },
   {
     "title": "Zembiec",
-    "line_one": "5 rounds for time of:\n11 back squats, 185 lb.\n7 strict burpee pull-ups\n400-meter run",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n11 back squats, 185 lb.<br/>\n7 strict burpee pull-ups<br/>\n400-meter run</p>"
   },
   {
     "title": "Alexander",
-    "line_one": "5 rounds for time of:\n31 back squats, 135 lb.\n12 power cleans, 185 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n31 back squats, 135 lb.<br/>\n12 power cleans, 185 lb.</p>"
   },
   {
     "title": "Wyk",
-    "line_one": "5 rounds for time:\n225-lb. front squats, 5 reps\n15-foot rope climbs, 5 ascents\nRun 400 meters with a 45-lb. plate",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time:<br/>\n225-lb. front squats, 5 reps<br/>\n15-foot rope climbs, 5 ascents<br/>\nRun 400 meters with a 45-lb. plate</p>"
   },
   {
     "title": "Bell",
-    "line_one": "3 rounds for time of:\n185-lb. deadlifts, 21 reps\n15 pull-ups\n185-lb. front squats, 9 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>3 rounds for time of:<br/>\n185-lb. deadlifts, 21 reps<br/>\n15 pull-ups<br/>\n185-lb. front squats, 9 reps</p>"
   },
   {
     "title": "JBo",
-    "line_one": "Complete as many rounds as possible in 28 minutes of:\n115-lb. overhead squats, 9 reps\n1 legless rope climb, 15-foot rope, beginning from seated\n115-lb. bench presses, 12 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 28 minutes of:<br/>\n115-lb. overhead squats, 9 reps<br/>\n1 legless rope climb, 15-foot rope, beginning from seated<br/>\n115-lb. bench presses, 12 reps</p>"
   },
   {
     "title": "Kevin",
-    "line_one": "3 rounds for time of:\n185-lb. deadlifts, 32 reps\n32\u00a0hanging hip touches, alternating arms\u00a0800-meter running farmer carry, 15-lb. dumbbells",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>3 rounds for time of:<br/>\n185-lb. deadlifts, 32 reps<br/>\n32 hanging hip touches, alternating arms 800-meter running farmer carry, 15-lb. dumbbells</p>"
   },
   {
     "title": "Rocket",
-    "line_one": "Complete as many rounds as possible in 30 minutes of:\n50-yard swim\n10 push-ups\n15 squats",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 30 minutes of:<br/>\n50-yard swim<br/>\n10 push-ups<br/>\n15 squats</p>"
   },
   {
     "title": "Riley",
-    "line_one": "For time:\nRun 1.5 miles\n150 burpees\nRun 1.5 miles",
-    "line_two": "If you\u2019ve got a weight vest or body armor, wear it.",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 1.5 miles<br/>\n150 burpees<br/>\nRun 1.5 miles<br/>\nIf you’ve got a weight vest or body armor, wear it.</p>"
   },
   {
     "title": "Feeks",
-    "line_one": "For time:\n2 x 100-meter shuttle sprint\n2 squat clean thrusters, 65-lb. dumbbells\n4 x 100-meter shuttle sprint\n4 squat clean thrusters, 65-lb. dumbbells\n6 x 100-meter shuttle sprint\n6 squat clean thrusters, 65-lb. dumbbells\n8 x 100-meter shuttle sprint\n8 squat clean thrusters, 65-lb. dumbbells\n10 x 100-meter shuttle sprint\n10 squat clean thrusters, 65-lb. dumbbells\n12 x 100-meter shuttle sprint\n12 squat clean thrusters, 65-lb. dumbbells\n14 x 100-meter shuttle sprint\n14 squat clean thrusters, 65-lb. dumbbells\n16 x 100-meter shuttle sprint\n16 squat clean thrusters, 65-lb. dumbbells",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n2 x 100-meter shuttle sprint<br/>\n2 squat clean thrusters, 65-lb. dumbbells<br/>\n4 x 100-meter shuttle sprint<br/>\n4 squat clean thrusters, 65-lb. dumbbells<br/>\n6 x 100-meter shuttle sprint<br/>\n6 squat clean thrusters, 65-lb. dumbbells<br/>\n8 x 100-meter shuttle sprint<br/>\n8 squat clean thrusters, 65-lb. dumbbells<br/>\n10 x 100-meter shuttle sprint<br/>\n10 squat clean thrusters, 65-lb. dumbbells<br/>\n12 x 100-meter shuttle sprint<br/>\n12 squat clean thrusters, 65-lb. dumbbells<br/>\n14 x 100-meter shuttle sprint<br/>\n14 squat clean thrusters, 65-lb. dumbbells<br/>\n16 x 100-meter shuttle sprint<br/>\n16 squat clean thrusters, 65-lb. dumbbells</p>"
   },
   {
     "title": "Ned",
-    "line_one": "7 rounds for time of:\n11 body-weight back squats\n1,000-meter row",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>7 rounds for time of:<br/>\n11 body-weight back squats<br/>\n1,000-meter row</p>"
   },
   {
     "title": "Sham",
-    "line_one": "7 rounds for time of:\n11 body-weight deadlifts\n100-meter sprint",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>7 rounds for time of:<br/>\n11 body-weight deadlifts<br/>\n100-meter sprint</p>"
   },
   {
     "title": "Ozzy",
-    "line_one": "7 rounds for time of:\n11 deficit handstand push-ups\n1,000-meter run",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>7 rounds for time of:<br/>\n11 deficit handstand push-ups<br/>\n1,000-meter run</p>"
   },
   {
     "title": "Jenny",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n45-lb. overhead squats, 20 reps\n45-lb. back squats, 20 reps\n400-meter run",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n45-lb. overhead squats, 20 reps<br/>\n45-lb. back squats, 20 reps<br/>\n400-meter run</p>"
   },
   {
     "title": "Spehar",
-    "line_one": "For time:\n135-lb. thrusters, 100 reps\n100 chest-to-bar pull-ups\nRun 6 miles",
-    "line_two": "Partition the thrusters, pull-ups and run as needed.",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n135-lb. thrusters, 100 reps<br/>\n100 chest-to-bar pull-ups<br/>\nRun 6 miles<br/>\nPartition the thrusters, pull-ups and run as needed.</p>"
   },
   {
     "title": "Luke",
-    "line_one": "For time:\nRun 400 meters\n155-lb. clean and jerks, 15 reps\nRun 400 meters\n30 toes-to-bars\nRun 400 meters\n45 wall-ball shots, 20-lb. ball\nRun 400 meters\n1.5-pood kettlebell swings, 45 reps\nRun 400 meters\n30 ring dips\nRun 400 meters\n155-lb. weighted lunges, 15 steps\nRun 400 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 400 meters<br/>\n155-lb. clean and jerks, 15 reps<br/>\nRun 400 meters<br/>\n30 toes-to-bars<br/>\nRun 400 meters<br/>\n45 wall-ball shots, 20-lb. ball<br/>\nRun 400 meters<br/>\n1.5-pood kettlebell swings, 45 reps<br/>\nRun 400 meters<br/>\n30 ring dips<br/>\nRun 400 meters<br/>\n155-lb. weighted lunges, 15 steps<br/>\nRun 400 meters</p>"
   },
   {
     "title": "Robbie",
-    "line_one": "Complete as many rounds as possible in 25 minutes of:\n8 freestanding handstand push-ups\n15-foot L-sit rope climb, 1 ascent",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 25 minutes of:<br/>\n8 freestanding handstand push-ups<br/>\n15-foot L-sit rope climb, 1 ascent</p>"
   },
   {
     "title": "Shawn",
-    "line_one": "For time:\nRun 5 miles",
-    "line_two": "Run in 5-minute intervals, stopping after each to perform 50 squats and 50 push-ups before beginning the next 5-minute run interval.",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 5 miles<br/>\nRun in 5-minute intervals, stopping after each to perform 50 squats and 50 push-ups before beginning the next 5-minute run interval.</p>"
   },
   {
     "title": "Foo",
-    "line_one": "170-lb. bench presses, 13 reps\nThen, complete as many rounds as possible in 20 minutes of:\n7 chest-to-bar pull-ups\n77 double-unders\n170-lb. squat clean thrusters, 2 reps\n28 sit-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>170-lb. bench presses, 13 reps<br/>\nThen, complete as many rounds as possible in 20 minutes of:<br/>\n7 chest-to-bar pull-ups<br/>\n77 double-unders<br/>\n170-lb. squat clean thrusters, 2 reps<br/>\n28 sit-ups</p>"
   },
   {
     "title": "Bowen",
-    "line_one": "3 rounds for time of:\nRun 800 meters\n275-lb. deadlifts, 7 reps\n10 burpee pull-ups\n53-lb. single arm kettlebell thrusters, 14 reps (7 each arm)\n20 box jumps, 24-inch box",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>3 rounds for time of:<br/>\nRun 800 meters<br/>\n275-lb. deadlifts, 7 reps<br/>\n10 burpee pull-ups<br/>\n53-lb. single arm kettlebell thrusters, 14 reps (7 each arm)<br/>\n20 box jumps, 24-inch box</p>"
   },
   {
     "title": "Gaza",
-    "line_one": "5 rounds for time of:\n35 kettlebell swings, 1.5 pood\n30 push-ups\n25 pull-ups\n20 box jumps, 30-inch box\n1-mile run",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n35 kettlebell swings, 1.5 pood<br/>\n30 push-ups<br/>\n25 pull-ups<br/>\n20 box jumps, 30-inch box<br/>\n1-mile run</p>"
   },
   {
     "title": "Crain",
-    "line_one": "2 rounds for time of:\n34 push-ups\n50-yard sprint\n34 deadlifts, 135 lb.\n50-yard sprint\n34 box jumps, 24-inch box\n50-yard sprint\n34 clean and jerks, 95 lb.\n50-yard sprint\n34 burpees\n50-yard sprint\n34 wall-ball shots, 20-lb. ball\n50-yard sprint\n34 pull-ups\n50-yard sprint",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>2 rounds for time of:<br/>\n34 push-ups<br/>\n50-yard sprint<br/>\n34 deadlifts, 135 lb.<br/>\n50-yard sprint<br/>\n34 box jumps, 24-inch box<br/>\n50-yard sprint<br/>\n34 clean and jerks, 95 lb.<br/>\n50-yard sprint<br/>\n34 burpees<br/>\n50-yard sprint<br/>\n34 wall-ball shots, 20-lb. ball<br/>\n50-yard sprint<br/>\n34 pull-ups<br/>\n50-yard sprint</p>"
   },
   {
     "title": "Capoot",
-    "line_one": "For time:\n100 push-ups\nRun 800 meters\n75 push-ups\nRun 1,200 meters\n50 push-ups\nRun 1,600 meters\n25 push-ups\nRun 2,000 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n100 push-ups<br/>\nRun 800 meters<br/>\n75 push-ups<br/>\nRun 1,200 meters<br/>\n50 push-ups<br/>\nRun 1,600 meters<br/>\n25 push-ups<br/>\nRun 2,000 meters</p>"
   },
   {
     "title": "Hall",
-    "line_one": "5 rounds for time of:\n225-lb. cleans, 3 reps\n200-meter sprint\n20 kettlebell snatches, 1.5 pood, 10 each arm\nRest 2 minutes",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n225-lb. cleans, 3 reps<br/>\n200-meter sprint<br/>\n20 kettlebell snatches, 1.5 pood, 10 each arm<br/>\nRest 2 minutes</p>"
   },
   {
     "title": "Servais",
-    "line_one": "For time:\nRun 1.5 miles\nThen, 8 rounds of:\n19 pull-ups\n19 push-ups\n19 burpees\nThen,\n400-meter sandbag carry (heavy)\n1-mile farmers carry with 45-lb. dumbbells",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 1.5 miles<br/>\nThen, 8 rounds of:<br/>\n19 pull-ups<br/>\n19 push-ups<br/>\n19 burpees<br/>\nThen,<br/>\n400-meter sandbag carry (heavy)<br/>\n1-mile farmers carry with 45-lb. dumbbells</p>"
   },
   {
     "title": "PK",
-    "line_one": "5 rounds for time of:\n225-lb. back squats, 10 reps\n275-lb. deadlifts, 10 reps\n400-meter sprint\nRest 2 minutes",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n225-lb. back squats, 10 reps<br/>\n275-lb. deadlifts, 10 reps<br/>\n400-meter sprint<br/>\nRest 2 minutes</p>"
   },
   {
     "title": "Marco",
-    "line_one": "3 rounds for time of:\n21 pull-ups\n15 handstand push-ups\n9 thrusters, 135 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>3 rounds for time of:<br/>\n21 pull-ups<br/>\n15 handstand push-ups<br/>\n9 thrusters, 135 lb.</p>"
   },
   {
-    "title": "Ren\u00e9",
-    "line_one": "7 rounds for time of:\nRun 400 meters\n21 walking lunges\n15 pull-ups\n9 burpees",
-    "line_two": "If you have a 20-lb. weight vest or body armor, wear it.",
-    "line_three": ""
+    "title": "René",
+    "content": "<p>7 rounds for time of:<br/>\nRun 400 meters<br/>\n21 walking lunges<br/>\n15 pull-ups<br/>\n9 burpees<br/>\nIf you have a 20-lb. weight vest or body armor, wear it.</p>"
   },
   {
     "title": "Pike",
-    "line_one": "5 rounds for time of:\n75-lb. thrusters, 20 reps\n10 strict ring dips\n20 push-ups\n10 strict handstand push-ups\n50-meter bear crawl",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n75-lb. thrusters, 20 reps<br/>\n10 strict ring dips<br/>\n20 push-ups<br/>\n10 strict handstand push-ups<br/>\n50-meter bear crawl</p>"
   },
   {
     "title": "Kutschbach",
-    "line_one": "7 rounds for time of:\n11 back squats, 185 lb.\n10 jerks, 135 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>7 rounds for time of:<br/>\n11 back squats, 185 lb.<br/>\n10 jerks, 135 lb.</p>"
   },
   {
     "title": "Jennifer",
-    "line_one": "Complete as many rounds as possible in 26 minutes of:\n10 pull-ups\n15 kettlebell swings, 1.5 pood\n20 box jumps, 24-inch box",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 26 minutes of:<br/>\n10 pull-ups<br/>\n15 kettlebell swings, 1.5 pood<br/>\n20 box jumps, 24-inch box</p>"
   },
   {
     "title": "Horton",
-    "line_one": "9 rounds for time with a partner of:\n9 bar muscle-ups\n11 clean and jerks, 155 lb.\n50-yard buddy carry",
-    "line_two": "Share the work with your partner however you choose with only one person working at a time. If you can\u2019t find a partner, perform 5 reps of each exercise per round and find a heavy sandbag to carry.",
-    "line_three": ""
+    "content": "<p>9 rounds for time with a partner of:<br/>\n9 bar muscle-ups<br/>\n11 clean and jerks, 155 lb.<br/>\n50-yard buddy carry<br/>\nShare the work with your partner however you choose with only one person working at a time. If you can’t find a partner, perform 5 reps of each exercise per round and find a heavy sandbag to carry.</p>"
   },
   {
     "title": "Scooter",
-    "line_one": "On a 35-minute clock with a partner:\nComplete as many rounds as possible in 30 minutes of:\n30 double-unders\n15 pull-ups\n15 push-ups\n100-meter sprint",
-    "line_two": "Then, 5 minutes to find a 1-rep-max partner deadlift",
-    "line_three": "For the AMRAP, have one partner work while the other rests, switching after a full round is completed. If you\u2019re performing without a partner, rest 60 seconds between each round, and find a regular 1-rep-max deadlift."
+    "content": "<p>On a 35-minute clock with a partner:<br/>\nComplete as many rounds as possible in 30 minutes of:<br/>\n30 double-unders<br/>\n15 pull-ups<br/>\n15 push-ups<br/>\n100-meter sprint<br/>\nThen, 5 minutes to find a 1-rep-max partner deadlift<br/>\nFor the AMRAP, have one partner work while the other rests, switching after a full round is completed. If you’re performing without a partner, rest 60 seconds between each round, and find a regular 1-rep-max deadlift.</p>"
   },
   {
     "title": "Matt 16",
-    "line_one": "For time:\n16 deadlifts, 275 lb.\n16 hang power cleans, 185 lb.\n16 push presses, 135 lb.\nRun 800 meters\n16 deadlifts, 275 lb.\n16 hang power cleans, 185 lb.\n16 push presses, 135 lb.\nRun 800 meters\n16 deadlifts, 275 lb.\n16 hang power cleans, 185 lb.\n16 push presses, 135 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n16 deadlifts, 275 lb.<br/>\n16 hang power cleans, 185 lb.<br/>\n16 push presses, 135 lb.<br/>\nRun 800 meters<br/>\n16 deadlifts, 275 lb.<br/>\n16 hang power cleans, 185 lb.<br/>\n16 push presses, 135 lb.<br/>\nRun 800 meters<br/>\n16 deadlifts, 275 lb.<br/>\n16 hang power cleans, 185 lb.<br/>\n16 push presses, 135 lb.</p>"
   },
   {
     "title": "T.U.P.",
-    "line_one": "15-12-9-6-3 reps for time of:\n135-lb. power cleans\nPull-ups\n135-lb. front squats\nPull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>15-12-9-6-3 reps for time of:<br/>\n135-lb. power cleans<br/>\nPull-ups<br/>\n135-lb. front squats<br/>\nPull-ups</p>"
   },
   {
     "title": "Harper",
-    "line_one": "Complete as many rounds as possible in 23 minutes of:\n9 chest-to-bar pull-ups\n135-lb. power cleans, 15 reps\n21 squats\n400-meter run with a 45-lb. plate",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 23 minutes of:<br/>\n9 chest-to-bar pull-ups<br/>\n135-lb. power cleans, 15 reps<br/>\n21 squats<br/>\n400-meter run with a 45-lb. plate</p>"
   },
   {
     "title": "Sisson",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n15-ft rope climb, 1 ascent\n5 burpees\n200-meter run",
-    "line_two": "If you\u2019ve got a 20-lb. vest or body armor, wear it.",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n15-ft rope climb, 1 ascent<br/>\n5 burpees<br/>\n200-meter run<br/>\nIf you’ve got a 20-lb. vest or body armor, wear it.</p>"
   },
   {
     "title": "Terry",
-    "line_one": "For time:\n1-mile run\n100 push-ups\n100-meter bear crawl\n1-mile run\n100-meter bear crawl\n100 push-ups\n1-mile run",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n1-mile run<br/>\n100 push-ups<br/>\n100-meter bear crawl<br/>\n1-mile run<br/>\n100-meter bear crawl<br/>\n100 push-ups<br/>\n1-mile run</p>"
   },
   {
     "title": "Big Sexy",
-    "line_one": "5 rounds for time of:\n6 deadlifts, 315 lb.\n6 burpees\n5 cleans, 225 lb.\n5 chest-to-bar pull-ups\n4 thrusters, 155 lb.\n4 muscle-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n6 deadlifts, 315 lb.<br/>\n6 burpees<br/>\n5 cleans, 225 lb.<br/>\n5 chest-to-bar pull-ups<br/>\n4 thrusters, 155 lb.<br/>\n4 muscle-ups</p>"
   },
   {
     "title": "Woehlke",
-    "line_one": "3 rounds, each for time of:\n4 jerks, 185 lb.\n5 front squats, 185 lb.\n6 power cleans, 185 lb.\n40 pull-ups\n50 push-ups\n60 sit-ups",
-    "line_two": "Rest 3 minutes between rounds.",
-    "line_three": ""
+    "content": "<p>3 rounds, each for time of:<br/>\n4 jerks, 185 lb.<br/>\n5 front squats, 185 lb.<br/>\n6 power cleans, 185 lb.<br/>\n40 pull-ups<br/>\n50 push-ups<br/>\n60 sit-ups<br/>\nRest 3 minutes between rounds.</p>"
   },
   {
     "title": "Maupin",
-    "line_one": "4 rounds for time of:\nRun 800 meters\n49 push-ups\n49 sit-ups\n49 squats",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>4 rounds for time of:<br/>\nRun 800 meters<br/>\n49 push-ups<br/>\n49 sit-ups<br/>\n49 squats</p>"
   },
   {
     "title": "Hildy",
-    "line_one": "100-calorie row\n75 thrusters, 45-lb. barbell\n50 pull-ups\n75 wall-ball shots, 20-lb. ball\n100-calorie row",
-    "line_two": "If you\u2019ve got a 20-lb. vest or body armor, wear it.",
-    "line_three": ""
+    "content": "<p>100-calorie row<br/>\n75 thrusters, 45-lb. barbell<br/>\n50 pull-ups<br/>\n75 wall-ball shots, 20-lb. ball<br/>\n100-calorie row<br/>\nIf you’ve got a 20-lb. vest or body armor, wear it.</p>"
   },
   {
     "title": "T.J.",
-    "line_one": "For time:\n185-lb. bench presses, 10 reps\n10 strict pull-ups\n135-lb. thrusters, max set",
-    "line_two": "Repeat the triplet until you have completed 100 reps of the thruster.",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n185-lb. bench presses, 10 reps<br/>\n10 strict pull-ups<br/>\n135-lb. thrusters, max set<br/>\nRepeat the triplet until you have completed 100 reps of the thruster.</p>"
   },
   {
     "title": "Monti",
-    "line_one": "5 rounds for time of:\n50 step-ups with 45-lb. barbell, 20-in. box\n135-lb. cleans, 15 reps\n50 step-ups with 45-lb. barbell, 20-in. box\n135-lb. snatches, 10 reps",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n50 step-ups with 45-lb. barbell, 20-in. box<br/>\n135-lb. cleans, 15 reps<br/>\n50 step-ups with 45-lb. barbell, 20-in. box<br/>\n135-lb. snatches, 10 reps</p>"
   },
   {
     "title": "DVB",
-    "line_one": "For time:\nRun 1 mile with a 20-lb. medicine ball\nThen, 8 rounds of:\n10 wall-ball shots\n1 rope ascent\nRun 800 meters with a 20-lb. medicine ball\nThen, 4 rounds of:\n10 wall-ball shots\n1 rope ascent\nRun 400 meters with a 20-lb. medicine ball\nThen, 2 rounds of:\n10 wall-ball shots\n1 rope ascent",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 1 mile with a 20-lb. medicine ball<br/>\nThen, 8 rounds of:<br/>\n10 wall-ball shots<br/>\n1 rope ascent<br/>\nRun 800 meters with a 20-lb. medicine ball<br/>\nThen, 4 rounds of:<br/>\n10 wall-ball shots<br/>\n1 rope ascent<br/>\nRun 400 meters with a 20-lb. medicine ball<br/>\nThen, 2 rounds of:<br/>\n10 wall-ball shots<br/>\n1 rope ascent</p>"
   },
   {
     "title": "Nickman",
-    "line_one": "With a 55-lb. and 35-lb. dumbbell, 10 rounds for time of:\n200-meter farmers carry with both dumbbells\n35-lb. weighted pull-ups, 10 reps\n55-lb. dumbbell power snatches, 20 reps, alternating arms",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>With a 55-lb. and 35-lb. dumbbell, 10 rounds for time of:<br/>\n200-meter farmers carry with both dumbbells<br/>\n35-lb. weighted pull-ups, 10 reps<br/>\n55-lb. dumbbell power snatches, 20 reps, alternating arms</p>"
   },
   {
     "title": "Marston",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n405-lb. deadlift, 1 rep\n10 toes-to-bars\n15 bar-facing burpees",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n405-lb. deadlift, 1 rep<br/>\n10 toes-to-bars<br/>\n15 bar-facing burpees</p>"
   },
   {
     "title": "Artie",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\n5 pull-ups\n10 push-ups\n15 squats\n5 pull-ups\n10 thrusters, 95 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n5 pull-ups<br/>\n10 push-ups<br/>\n15 squats<br/>\n5 pull-ups<br/>\n10 thrusters, 95 lb.</p>"
   },
   {
     "title": "Hollywood",
-    "line_one": "For time:\nRun 2 km\n22 wall-ball shots, 30-lb. ball\n22 muscle-ups\n22 wall-ball shots, 30-lb. ball\n22 power cleans, 185-lb.\n22 wall-ball shots, 30-lb. ball\nRun 2 km",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 2 km<br/>\n22 wall-ball shots, 30-lb. ball<br/>\n22 muscle-ups<br/>\n22 wall-ball shots, 30-lb. ball<br/>\n22 power cleans, 185-lb.<br/>\n22 wall-ball shots, 30-lb. ball<br/>\nRun 2 km</p>"
   },
   {
     "title": "Manuel",
-    "line_one": "5 rounds of:\n3 minutes of rope climbs\n2 minutes of squats\n2 minutes of push-ups\n3 minutes to run 400 meters",
-    "line_two": "Wear a weight vest or body armor. After the run, rest for the remainder of the 3 minutes before beginning the next round.",
-    "line_three": ""
+    "content": "<p>5 rounds of:<br/>\n3 minutes of rope climbs<br/>\n2 minutes of squats<br/>\n2 minutes of push-ups<br/>\n3 minutes to run 400 meters<br/>\nWear a weight vest or body armor. After the run, rest for the remainder of the 3 minutes before beginning the next round.</p>"
   },
   {
     "title": "Tiff",
-    "line_one": "On a 25-minute clock,\nRun 1.5 miles\nThen perform as many rounds as possible of:\n11 chest-to-bar pull-ups\n7 hang squat cleans, 155 lb.\n7 push presses, 155 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>On a 25-minute clock,<br/>\nRun 1.5 miles<br/>\nThen perform as many rounds as possible of:<br/>\n11 chest-to-bar pull-ups<br/>\n7 hang squat cleans, 155 lb.<br/>\n7 push presses, 155 lb.</p>"
   },
   {
     "title": "Paul Pena",
-    "line_one": "7 rounds, each for time of:\n100-meter sprint\n19 kettlebell swings, 2 pood\n10 burpee box jumps, 24-inch\nRest 3 minutes",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>7 rounds, each for time of:<br/>\n100-meter sprint<br/>\n19 kettlebell swings, 2 pood<br/>\n10 burpee box jumps, 24-inch<br/>\nRest 3 minutes</p>"
   },
   {
     "title": "Yeti",
-    "line_one": "For time:\n25 pull-ups\n10 muscle-ups\n1.5-mile run\n10 muscle-ups\n25 pull-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n25 pull-ups<br/>\n10 muscle-ups<br/>\n1.5-mile run<br/>\n10 muscle-ups<br/>\n25 pull-ups</p>"
   },
   {
     "title": "Liam",
-    "line_one": "For time:\nRun 800 meters with a 45-lb. plate\n100 toes-to-bars\n155-lb. front squats, 50 reps\n15-ft. rope climbs, 10 ascents\nRun 800 meters with a 45-lb. plate",
-    "line_two": "Partition the toes-to-bars, front squats and rope climbs as needed. Start and finish with the run.",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 800 meters with a 45-lb. plate<br/>\n100 toes-to-bars<br/>\n155-lb. front squats, 50 reps<br/>\n15-ft. rope climbs, 10 ascents<br/>\nRun 800 meters with a 45-lb. plate<br/>\nPartition the toes-to-bars, front squats and rope climbs as needed. Start and finish with the run.</p>"
   },
   {
     "title": "Wes",
-    "line_one": "For time:\nRun 800 meters with a 25-lb. plate\nThen, 14 rounds of:\n5 strict pull-ups\n4 burpee box jumps, 24-in. box\n3 cleans, 185 lb.\nThen, run 800 meters with a 25-lb. plate",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 800 meters with a 25-lb. plate<br/>\nThen, 14 rounds of:<br/>\n5 strict pull-ups<br/>\n4 burpee box jumps, 24-in. box<br/>\n3 cleans, 185 lb.<br/>\nThen, run 800 meters with a 25-lb. plate</p>"
   },
   {
     "title": "Miron",
-    "line_one": "5 rounds for time of:\n800-meter run\n23 back squats, \u00be body weight\n13 deadlifts, 1 \u00bd body weight",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>5 rounds for time of:<br/>\n800-meter run<br/>\n23 back squats, ¾ body weight<br/>\n13 deadlifts, 1 ½ body weight</p>"
   },
   {
     "title": "Pat",
-    "line_one": "Wearing a 20-lb. vest, 6 rounds for time:\n25 pull-ups\n50-ft. front-rack lunge, 75 lb.\n25 push-ups\n50-ft. front-rack lunge, 75 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Wearing a 20-lb. vest, 6 rounds for time:<br/>\n25 pull-ups<br/>\n50-ft. front-rack lunge, 75 lb.<br/>\n25 push-ups<br/>\n50-ft. front-rack lunge, 75 lb.</p>"
   },
   {
     "title": "Scotty",
-    "line_one": "Complete as many rounds as possible in 11 minutes of:\n5 deadlifts, 315 lb.\n18 wall-ball shots, 20-lb. ball\n17 burpees, over the bar",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 11 minutes of:<br/>\n5 deadlifts, 315 lb.<br/>\n18 wall-ball shots, 20-lb. ball<br/>\n17 burpees, over the bar</p>"
   },
   {
     "title": "Rich",
-    "line_one": "For time:\n13 squat snatches, 155 lb.\nThen, 10 rounds of:\n\u200b 10 pull-ups\n\u200b 100-meter sprint\nThen, 13 squat cleans, 155 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n13 squat snatches, 155 lb.<br/>\nThen, 10 rounds of:<br/>\n​ 10 pull-ups<br/>\n​ 100-meter sprint<br/>\nThen, 13 squat cleans, 155 lb.</p>"
   },
   {
     "title": "Dallas 5",
-    "line_one": "5 minutes of:\n\u200b Burpees\n\nThen, 5 minutes of:\n\u200b 7 deadlifts, 155 lb.\n\u200b 7 box jumps, 24-in. box\n\nThen, 5 minutes of:\n\u200b Turkish get-ups, 40-lb. dumbbell\n\nThen, 5 minutes of:\n\u200b 7 snatches, 75 lb.\n\u200b 7 push-ups\n\nThen, 5 minutes of:\n\u200b Rowing (calories)",
-    "line_two": "Complete as many reps as possible at each 5-minute station. Rest 1 minute between stations.",
-    "line_three": ""
+    "content": "<p>5 minutes of:<br/>\n​ Burpees<br/>\n<br/>\nThen, 5 minutes of:<br/>\n​ 7 deadlifts, 155 lb.<br/>\n​ 7 box jumps, 24-in. box<br/>\n<br/>\nThen, 5 minutes of:<br/>\n​ Turkish get-ups, 40-lb. dumbbell<br/>\n<br/>\nThen, 5 minutes of:<br/>\n​ 7 snatches, 75 lb.<br/>\n​ 7 push-ups<br/>\n<br/>\nThen, 5 minutes of:<br/>\n​ Rowing (calories)<br/>\nComplete as many reps as possible at each 5-minute station. Rest 1 minute between stations.</p>"
   },
   {
     "title": "Dunn",
-    "line_one": "Complete as many rounds as possible in 19 minutes of:\n3 muscle-ups\n1 shuttle sprint, 5 yards, 10 yards, 15 yards\n6 burpee box jump-overs, 20-in. box",
-    "line_two": "On the burpees, jump over the box without touching it.",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 19 minutes of:<br/>\n3 muscle-ups<br/>\n1 shuttle sprint, 5 yards, 10 yards, 15 yards<br/>\n6 burpee box jump-overs, 20-in. box<br/>\nOn the burpees, jump over the box without touching it.</p>"
   },
   {
     "title": "Kev",
-    "line_one": "With a partner, complete as many rounds as possible in 26 minutes of:\n6 deadlifts, 315 lb., each\n9 bar-facing burpees, synchronized\n9 bar muscle-ups, each\n55-ft. partner barbell carry, 315 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>With a partner, complete as many rounds as possible in 26 minutes of:<br/>\n6 deadlifts, 315 lb., each<br/>\n9 bar-facing burpees, synchronized<br/>\n9 bar muscle-ups, each<br/>\n55-ft. partner barbell carry, 315 lb.</p>"
   },
   {
     "title": "Emily",
-    "line_one": "10 rounds for time of:\n30 double-unders\n15 pull-ups\n30 squats\n100-m sprint\nRest 2 minutes",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>10 rounds for time of:<br/>\n30 double-unders<br/>\n15 pull-ups<br/>\n30 squats<br/>\n100-m sprint<br/>\nRest 2 minutes</p>"
   },
   {
     "title": "Andy",
-    "line_one": "For time, wearing a 20-lb. vest:\n25 thrusters, 115 lb.\n50 box jumps, 24 in.\n75 deadlifts, 115 lb.\n1.5-mile run\n75 deadlifts, 115 lb.\n50 box jumps, 24 in.\n25 thrusters, 115 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time, wearing a 20-lb. vest:<br/>\n25 thrusters, 115 lb.<br/>\n50 box jumps, 24 in.<br/>\n75 deadlifts, 115 lb.<br/>\n1.5-mile run<br/>\n75 deadlifts, 115 lb.<br/>\n50 box jumps, 24 in.<br/>\n25 thrusters, 115 lb.</p>"
   },
   {
     "title": "Viola",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:\nRun 400 meters\n11 power snatches, 95 lb.\n17 pull-ups\n13 power cleans, 95 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\nRun 400 meters<br/>\n11 power snatches, 95 lb.<br/>\n17 pull-ups<br/>\n13 power cleans, 95 lb.</p>"
   },
   {
     "title": "Coffland",
-    "line_one": "Hang from a pull-up bar for 6 minutes\nEach time you drop from the bar, perform:\n800-m run\n30 push-ups",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>Hang from a pull-up bar for 6 minutes<br/>\nEach time you drop from the bar, perform:<br/>\n800-m run<br/>\n30 push-ups</p>"
   },
   {
     "title": "The Lyon",
-    "line_one": "5 rounds, each for time of:\n165-lb. squat cleans, 7 reps\n165-lb. shoulder-to-overheads, 7 reps\n7 burpee chest-to-bar pull-ups",
-    "line_two": "Rest 2 minutes between rounds.",
-    "line_three": "Ideally, use a pull-up bar that is 6 inches above your max reach when standing."
+    "content": "<p>5 rounds, each for time of:<br/>\n165-lb. squat cleans, 7 reps<br/>\n165-lb. shoulder-to-overheads, 7 reps<br/>\n7 burpee chest-to-bar pull-ups<br/>\nRest 2 minutes between rounds.<br/>\nIdeally, use a pull-up bar that is 6 inches above your max reach when standing.</p>"
   },
   {
     "title": "T",
-    "line_one": "5 rounds for time of:\n100-meter sprint\n10 squat clean thrusters\n15 kettlebell swings\n100-meter sprint",
-    "line_two": "Rest 2 minutes",
-    "line_three": "Men: 115 lb. and 2 pood\nWomen: 75 lb. and 1.5 pood"
+    "content": "<p>5 rounds for time of:<br/>\n100-meter sprint<br/>\n10 squat clean thrusters<br/>\n15 kettlebell swings<br/>\n100-meter sprint<br/>\nRest 2 minutes<br/>\nMen: 115 lb. and 2 pood<br/>\nWomen: 75 lb. and 1.5 pood</p>"
   },
   {
     "title": "Havana",
-    "line_one": "Complete as many rounds as possible in 25 minutes of:\n150 double-unders\n50 push-ups\n15 power cleans",
-    "line_two": "Men: 185 lb.\nWomen: 125 lb.",
-    "line_three": ""
+    "content": "<p>Complete as many rounds as possible in 25 minutes of:<br/>\n150 double-unders<br/>\n50 push-ups<br/>\n15 power cleans<br/>\nMen: 185 lb.<br/>\nWomen: 125 lb.</p>"
   },
   {
     "title": "Tama",
-    "line_one": "For time:\n800-meter single-arm barbell farmers carry, 45/35 lb.\n31 toes-to-bars\n31 push-ups\n31 front squats, 95/65 lb.\n400-meter single-arm barbell farmers carry, 95/65 lb.\n31 toes-to-bars\n31 push-ups\n31 hang power cleans, 135/95 lb.\n200-meter single-arm barbell farmers carry, 135/95 lb.",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n800-meter single-arm barbell farmers carry, 45/35 lb.<br/>\n31 toes-to-bars<br/>\n31 push-ups<br/>\n31 front squats, 95/65 lb.<br/>\n400-meter single-arm barbell farmers carry, 95/65 lb.<br/>\n31 toes-to-bars<br/>\n31 push-ups<br/>\n31 hang power cleans, 135/95 lb.<br/>\n200-meter single-arm barbell farmers carry, 135/95 lb.</p>"
   },
   {
     "title": "Otis",
-    "line_one": "Complete as many reps as possible in 15 minutes of:\n1 back squat, 1 shoulder press, 1 deadlift\n2 back squats, 2 shoulder presses, 2 deadlifts\n3 back squats, 3 shoulder presses, 3 deadlifts\nEtc.",
-    "line_two": "Use 1\u00bd body weight for the squats and deadlifts and \u00be body weight for the presses.",
-    "line_three": ""
+    "content": "<p>Complete as many reps as possible in 15 minutes of:<br/>\n1 back squat, 1 shoulder press, 1 deadlift<br/>\n2 back squats, 2 shoulder presses, 2 deadlifts<br/>\n3 back squats, 3 shoulder presses, 3 deadlifts<br/>\nEtc.<br/>\nUse 1½ body weight for the squats and deadlifts and ¾ body weight for the presses.</p>"
   },
   {
     "title": "Josie",
-    "line_one": "For time, wearing a 20-lb. vest:\n1-mile run\nThen, 3 rounds of:\n30 burpees\n4 power cleans\n6 front squats\nThen, 1-mile run",
-    "line_two": "Men: 155 lb.\nWomen: 105 lb.",
-    "line_three": ""
+    "content": "<p>For time, wearing a 20-lb. vest:<br/>\n1-mile run<br/>\nThen, 3 rounds of:<br/>\n30 burpees<br/>\n4 power cleans<br/>\n6 front squats<br/>\nThen, 1-mile run<br/>\nMen: 155 lb.<br/>\nWomen: 105 lb.</p>"
   },
   {
     "title": "Dork",
-    "line_one": "6 rounds for time of:\n60 double-unders\n30 kettlebell swings\n15 burpees",
-    "line_two": "Men: 1.5-pood kettlebell\nWomen: 1-pood kettlebell",
-    "line_three": ""
+    "content": "<p>6 rounds for time of:<br/>\n60 double-unders<br/>\n30 kettlebell swings<br/>\n15 burpees<br/>\nMen: 1.5-pood kettlebell<br/>\nWomen: 1-pood kettlebell</p>"
   },
   {
     "title": "Bert",
-    "line_one": "For time:\n50 burpees\n400-m run\n100 push-ups\n400-m run\n150 walking lunges\n400-m run\n200 squats\n400-m run\n150 walking lunges\n400-m run\n100 push-ups\n400-m run\n50 burpees",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time:<br/>\n50 burpees<br/>\n400-m run<br/>\n100 push-ups<br/>\n400-m run<br/>\n150 walking lunges<br/>\n400-m run<br/>\n200 squats<br/>\n400-m run<br/>\n150 walking lunges<br/>\n400-m run<br/>\n100 push-ups<br/>\n400-m run<br/>\n50 burpees</p>"
   },
   {
     "title": "Wade",
-    "line_one": "For time, wearing a 20-lb. vest or body armor:\nRun 1,200 meters\nThen, 4 rounds of:\n12 strict pull-ups\n9 strict dips\n6 strict handstand push-ups\nThen, run 1,200 meters",
-    "line_two": "",
-    "line_three": ""
+    "content": "<p>For time, wearing a 20-lb. vest or body armor:<br/>\nRun 1,200 meters<br/>\nThen, 4 rounds of:<br/>\n12 strict pull-ups<br/>\n9 strict dips<br/>\n6 strict handstand push-ups<br/>\nThen, run 1,200 meters</p>"
   },
   {
     "title": "Fournier",
-    "line_one": "For time:\n50 shoulder-to-overheads\n50-ft.\u00a0arm-over-arm sled pull\n40 burpees\n50-ft. arm-over-arm sled pull\n30 sumo deadlift high pulls\n50-ft. arm-over-arm sled pull",
-    "line_two": "\u2640 75-lb. STO, 55-lb. SDHP\n\u2642 115-lb. STO, 85-lb. SDHP",
-    "line_three": "For the sled pull, use a load that is challenging but doesn\u2019t require extended rest periods."
+    "content": "<p>For time:<br/>\n50 shoulder-to-overheads<br/>\n50-ft. arm-over-arm sled pull<br/>\n40 burpees<br/>\n50-ft. arm-over-arm sled pull<br/>\n30 sumo deadlift high pulls<br/>\n50-ft. arm-over-arm sled pull<br/>\n♀ 75-lb. STO, 55-lb. SDHP<br/>\n♂ 115-lb. STO, 85-lb. SDHP<br/>\nFor the sled pull, use a load that is challenging but doesn’t require extended rest periods.</p>"
   },
   {
     "title": "Larry",
-    "line_one": "21-18-15-12-9-6-3 reps for time of:",
-    "line_two": "Front squats\nBar-facing burpees\n*200-m sandbag carry after each round",
-    "line_three": "\u2640 75-lb. squat, 50-lb. sandbag\n\u2642 115-lb. squat, 80-lb. sandbag"
+    "content": "<p>21-18-15-12-9-6-3 reps for time of:<br/>\nFront squats<br/>\nBar-facing burpees<br/>\n*200-m sandbag carry after each round<br/>\n♀ 75-lb. squat, 50-lb. sandbag<br/>\n♂ 115-lb. squat, 80-lb. sandbag</p>"
   },
   {
     "title": "Kelly Brown",
-    "line_one": "5 rounds for time of:",
-    "line_two": "Row 440 m\n10 box jumps\n10 deadlifts\n10 wall-ball shots",
-    "line_three": "\u2640 20-lb. ball to 9 ft., 185-lb. DL, 24-in. box\n\u2642 30-lb. ball to 10 ft., 275-lb. DL, 30-in. box"
+    "content": "<p>5 rounds for time of:<br/>\nRow 440 m<br/>\n10 box jumps<br/>\n10 deadlifts<br/>\n10 wall-ball shots<br/>\n♀ 20-lb. ball to 9 ft., 185-lb. DL, 24-in. box<br/>\n♂ 30-lb. ball to 10 ft., 275-lb. DL, 30-in. box</p>"
   },
   {
     "title": "Kerrie\n",
-    "line_one": "Wearing a weight vest, 10 rounds for time of:",
-    "line_two": "100-m sprint\n5 burpees\n20 sit-ups\n15 push-ups\n100-m sprint\nRest 2 minutes",
-    "line_three": ""
+    "content": "<p>Wearing a weight vest, 10 rounds for time of:<br/>\n100-m sprint<br/>\n5 burpees<br/>\n20 sit-ups<br/>\n15 push-ups<br/>\n100-m sprint<br/>\nRest 2 minutes</p>"
   },
   {
     "title": "Martin",
-    "line_one": "For time, with a partner:",
-    "line_two": "2,000-m row\n100 bodyweight deadlifts\n50 thrusters (65/95 lb.)\n1,000-m row\n100 hand-release push-ups\n50 pull-ups\n500-m row\n100 sit-ups\n100 wall-ball shots (14/20 lb.)",
-    "line_three": ""
+    "content": "<p>For time, with a partner:<br/>\n2,000-m row<br/>\n100 bodyweight deadlifts<br/>\n50 thrusters (65/95 lb.)<br/>\n1,000-m row<br/>\n100 hand-release push-ups<br/>\n50 pull-ups<br/>\n500-m row<br/>\n100 sit-ups<br/>\n100 wall-ball shots (14/20 lb.)</p>"
   },
   {
     "title": "Laura",
-    "line_one": "With a partner, complete as many rounds as possible in 21 minutes of:",
-    "line_two": "30-cal. row\n20 burpees over the rower\n10 power cleans",
-    "line_three": "\u2640 105 lb. \u2642 155 lb."
+    "content": "<p>With a partner, complete as many rounds as possible in 21 minutes of:<br/>\n30-cal. row<br/>\n20 burpees over the rower<br/>\n10 power cleans<br/>\n♀ 105 lb. ♂ 155 lb.</p>"
   },
   {
     "title": "Lorenzo",
-    "line_one": "For time:",
-    "line_two": "Run 1,000 meters\nThen,\n5 rounds of:\n15 push-ups\n20 med-ball cleans\n21 burpees\nThen,\nRun 1,000 meters",
-    "line_three": ""
+    "content": "<p>For time:<br/>\nRun 1,000 meters<br/>\nThen,<br/>\n5 rounds of:<br/>\n15 push-ups<br/>\n20 med-ball cleans<br/>\n21 burpees<br/>\nThen,<br/>\nRun 1,000 meters</p>"
   },
   {
     "title": "Peyton",
-    "line_one": "Complete as many rounds as possible in 20 minutes of:",
-    "line_two": "10 chest-to-bar pull-ups\n10 dumbbell thrusters, 35/50 lb.",
-    "line_three": "*Stop and perform 40 double-unders every 2 minutes, including at 0:00.\nThen, at the 20:00 mark, begin a 2-mile run."
+    "content": "<p>Complete as many rounds as possible in 20 minutes of:<br/>\n10 chest-to-bar pull-ups<br/>\n10 dumbbell thrusters, 35/50 lb.<br/>\n*Stop and perform 40 double-unders every 2 minutes, including at 0:00.<br/>\nThen, at the 20:00 mark, begin a 2-mile run.</p>"
   },
   {
     "title": "Maxton",
-    "line_one": "With a weight vest, 13 rounds for time of:",
-    "line_two": "8 strict pull-ups\n26 box step-ups\n21 burpees",
-    "line_three": "\u2640 14-lb. vest, 20-in. box\n\u2642 20-lb. vest, 24-in. box"
+    "content": "<p>With a weight vest, 13 rounds for time of:<br/>\n8 strict pull-ups<br/>\n26 box step-ups<br/>\n21 burpees<br/>\n♀ 14-lb. vest, 20-in. box<br/>\n♂ 20-lb. vest, 24-in. box</p>"
   },
   {
     "title": "Eva Strong",
-    "line_one": "With a partner, 5 rounds for time of:",
-    "line_two": "24 double-unders (each)\n19 toes-to-bars (total)\n2 clean and jerks (total)\n400-m run (together)",
-    "line_three": "\u2640 135 lb \u2642 205 lb"
+    "content": "<p>With a partner, 5 rounds for time of:<br/>\n24 double-unders (each)<br/>\n19 toes-to-bars (total)<br/>\n2 clean and jerks (total)<br/>\n400-m run (together)<br/>\n♀ 135 lb ♂ 205 lb</p>"
   },
   {
     "title": "CHAD1000X",
-    "line_one": "For time:",
-    "line_two": "1,000 weighted box step-ups",
-    "line_three": "\u2640 35-lb ruck, 20-in box\n\u2642 45-lb ruck, 20-in box"
+    "content": "<p>For time:<br/>\n1,000 weighted box step-ups<br/>\n♀ 35-lb ruck, 20-in box<br/>\n♂ 45-lb ruck, 20-in box</p>"
   }
 ]

@@ -79,7 +79,7 @@ const workoutsService = {
     async getHeroWorkout() {
         const randomIndex = getRandomNumberBetween(0, heroWods.length);
         const wod = heroWods[randomIndex];
-        const content = `<h2>${wod.title}</h2> <br /> ${wod.line_one?.replace(/\n/g, '<br />')} <br /> <br /> ${wod?.line_two?.replace(/\n/g, '<br />')} <br /> <br /> ${wod?.line_three?.replace(/\n/g, '<br />')}`;
+        const content = wod.content;
         return NodeHtmlMarkdown.translate(content);
     },
 
