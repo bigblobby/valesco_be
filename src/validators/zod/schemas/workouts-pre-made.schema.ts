@@ -31,7 +31,7 @@ export const workoutPreMadeGetAllSchema = z.object({
             'crossfit-linchpin-daily-wods',
             'crossfit-linchpin-monster-mash-wods',
             'crossfit-mayhem-daily-wods',
-            'push-herk-wods',
+            'push-jerk-wods',
         ]),
     }),
 });
