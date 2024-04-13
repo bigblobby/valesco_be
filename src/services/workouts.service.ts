@@ -41,7 +41,7 @@ const workoutsService = {
 
         const { data, error } = await req.supabase
             .from('workouts')
-            .select('*')
+            .select('id, name, type, length, created_at')
             .eq('user_id', req.user.id)
             .order('created_at', { ascending: false })
             .range((page - 1) * limit, (limit * page) - 1)

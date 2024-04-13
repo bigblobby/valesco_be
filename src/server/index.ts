@@ -13,7 +13,10 @@ const app = express();
 app.use(cookieParser(process.env.COOKIE_SECRET));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
+// app.use(cors({ origin: '*', credentials: true, }));
 app.use(cors({ origin: 'http://localhost:3000', credentials: true, }));
+// app.use(cors({ origin: 'http://192.168.1.193:3000', credentials: true, }));
+
 
 // Logger
 app.use(morganMiddleware);
